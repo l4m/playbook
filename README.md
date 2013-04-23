@@ -1,4 +1,5 @@
-playbook
+Lean Startup Playbook
 ========
 
-Lean Startup Playbook
+Process for applying lean startup principles.
+
