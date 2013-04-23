@@ -29,7 +29,7 @@ Art of Storytelling
 ------------------------- 
 ### outcome
 
-Write a value proposition that resontates with customers.
+Write a value proposition that resonates with customers.
 
 Landing Pages
 ------------------------- 
