@@ -1,7 +1,7 @@
-Lean Startup Playbook
+Lean UX Playbook
 ================================
 
-Process for applying lean startup principles.
+The Playbook process applies Lean Startup principles to designing your business.
 
 Passion &#043; Purpose
 ------------------------- 
@@ -43,3 +43,6 @@ Deliver the value with #conceirge treatment.
 
 Next Steps
 -------------------------
+
+* Schedule your workshops with tRavIs McCutcheon on...
+* Schedule a call with [tRavIs McCutcheon](https://clarity.fm/#/travismccutcheon) on Clarity.fm.
