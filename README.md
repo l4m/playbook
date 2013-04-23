@@ -5,7 +5,7 @@ Process for applying lean startup principles.
 
 Passion &#043; Purpose
 ------------------------- 
-## vision
+### vision
 
 * What is yor mission?
 * Why now?
@@ -15,29 +15,29 @@ The cornerstone of your organization.
 
 Target Acquisition
 ------------------------- 
-#### persona
+### persona
 
 Interview Hacking
 ------------------------- 
-#### problems 
+### problems 
 
 Write customer development scripts to learn what you need to know.
 
 Value Proposition
 ------------------------- 
-## outcome
+### outcome
 
 Write a story that resonates with customers. /#storytelling
 
 Landing Pages
 ------------------------- 
-## persona + problems + outcome
+### persona + problems + outcome
 
 Launch a page that connects the dots.
 
 MVP
 ------------------------- 
-## prototype
+### prototype
 
 Deliver the value with #conceirge treatment.
 
