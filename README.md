@@ -46,5 +46,5 @@ Deliver the value with #conceirge treatment.
 Next Steps
 -------------------------
 
-* Schedule your workshops with tRavIs McCutcheon on...
-* Schedule a call with [tRavIs McCutcheon](https://clarity.fm/#/travismccutcheon) on Clarity.fm.
+* [Schedule your workshops](http://meetme.so/playbook) with tRavIs McCutcheon on MeetMe.so.
+* [Schedule a call](https://clarity.fm/#/travismccutcheon) with tRavIs McCutcheon on Clarity.fm.
