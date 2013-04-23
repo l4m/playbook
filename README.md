@@ -7,39 +7,41 @@ Passion &#043; Purpose
 ------------------------- 
 ### vision
 
+The cornerstone of your organization.
+
 * What is yor mission?
 * Why now?
 * What are your core values?
-
-The cornerstone of your organization.
 
 Target Acquisition
 ------------------------- 
 ### persona
 
+Draw an image of your customer segment.
+
 Interview Hacking
 ------------------------- 
 ### problems 
 
-Write customer development scripts to learn what you need to know.
+Create customer development scripts for what you need to know.
 
-Value Proposition
+Art of Storytelling
 ------------------------- 
 ### outcome
 
-Write a story that resonates with customers. /#storytelling
+Write a value proposition that resontates with customers.
 
 Landing Pages
 ------------------------- 
 ### persona + problems + outcome
 
-Launch a page that connects the dots.
+Launch a page connecting the dots.
 
 MVP
 ------------------------- 
 ### prototype
 
-Deliver the value with #conceirge treatment.
+Delivering value with #conceirge treatment.
 
 Next Steps
 -------------------------
