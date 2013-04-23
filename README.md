@@ -15,11 +15,11 @@ The cornerstone of your organization.
 
 Target Acquisition
 ------------------------- 
-## persona
+#### persona
 
 Interview Hacking
 ------------------------- 
-## problems 
+#### problems 
 
 Write customer development scripts to learn what you need to know.
 
