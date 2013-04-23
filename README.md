@@ -23,7 +23,7 @@ Interview Hacking
 ------------------------- 
 ### problems 
 
-Create customer development scripts for what you need to know.
+Create customer development experiments for what you need to know.
 
 Art of Storytelling
 ------------------------- 
@@ -41,7 +41,7 @@ MVP
 ------------------------- 
 ### prototype
 
-Delivering value with #conceirge treatment.
+Deliver the value with #conceirge treatment.
 
 Next Steps
 -------------------------
