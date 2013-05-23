@@ -9,8 +9,7 @@ Passion &#043; Purpose
 
 The cornerstone of your organization.
 
-* What is yor mission?
-* Why now?
+* What is your mission?
 * What are your core values?
 
 Target Acquisition
