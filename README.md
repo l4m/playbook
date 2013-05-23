@@ -1,7 +1,7 @@
-Lean UX Playbook
+Lean Playbook
 ================================
 
-The Playbook process applies Lean Startup principles to designing your business.
+Apply Lean Startup methodology when designing your business.
 
 Passion &#043; Purpose
 ------------------------- 
@@ -47,3 +47,7 @@ Next Steps
 
 * [Schedule your workshops](http://meetme.so/playbook) with tRavIs McCutcheon on MeetMe.so.
 * [Schedule a call](https://clarity.fm/#/travismccutcheon) with tRavIs McCutcheon on Clarity.fm.
+
+# Design, Build, Scale
+
+### Connect with customers creating a lean user experience.
