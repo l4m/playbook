@@ -30,20 +30,20 @@ Find desirable ```{outcome}``` aligned with ```{vision}```!
 ### Make Your Mark
 - Lines
 - Shapes
--- Rectangles
--- Circles
+  - Rectangles
+	- Circles
 
 ### Faces
 - Nine
--- Circles
+	- Circles
 - Two
--- Dots
+	- Dots
 - Expressions
--- Mouth
---- Top
---- Middle
---- Bottom
--- Eyebrows
---- Left
---- Middle
---- Right
+	- Mouth
+		- Top
+		- Middle
+		- Bottom
+	- Eyebrows
+		- Left
+		- Middle
+		- Right
