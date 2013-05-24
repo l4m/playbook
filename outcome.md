@@ -1,44 +1,49 @@
 # Art of Storytelling
 
-Jobs to be done.
-What does {persona} hire {product } to do?
+## ```{outcome}```
+Write a #value proposition that resonates with customers.
 
-Goal: Outcomes matching {vision}.
+### UVP
+- **Unique**
+- **Value**
+- **Proposition**
 
-Benefits
-Confidence Solving real problems
-Priorities Validated customer needs
+- We know *who*.
+- Figure out *what*.
+- **Not** to build!
 
-Build <smallest> MVP
-Test ideas <faster>
+### Benefits
 
-How will this exercise benefit {company}?
-1
-2
+- *Confidence* real problems
+- *Prioritized* customer needs
 
-Make Your Mark
-Lines
-Warm it up
-Shapes
-Squares
-Circles
+- **Build** smallest MVP
+- **Test** ideas faster
 
-Faces
-Nine
-Circles
-3 rows of 3
-Two
-Dots
-Eyes
-Expressions
-Mouth
-Top: Smiles
-Middle: Straight
-Bottom: Frowns
-Eyebrows
-Left: None
-Middle: Up
-Right: Down
+### Jobs to be done
 
+What does ```{persona}``` hire ```{product}``` to do?
 
+#### Goal
+Find desirable ```{outcome}``` aligned with ```{vision}```!
 
+### Make Your Mark
+- Lines
+- Shapes
+-- Rectangles
+-- Circles
+
+### Faces
+- Nine
+-- Circles
+- Two
+-- Dots
+- Expressions
+-- Mouth
+--- Top
+--- Middle
+--- Bottom
+-- Eyebrows
+--- Left
+--- Middle
+--- Right
