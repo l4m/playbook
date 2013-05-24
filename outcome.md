@@ -8,15 +8,13 @@ Write a #value proposition that resonates with customers.
 - **Value**
 - **Proposition**
 
-- We know *who*.
-- Figure out *what*.
-- **Not** to build!
+We know *who*.
+Figure out *what* &#40; **NOT** to build &#41;!
 
 ### Benefits
 
 - *Confidence* real problems
 - *Prioritized* customer needs
-
 - **Build** smallest MVP
 - **Test** ideas faster
 
