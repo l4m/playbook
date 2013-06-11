@@ -97,6 +97,7 @@ Give value and ask for little. Make the sign-up process as frictionless as possi
 * Provide enough convincing to encourage them to try
 * Prominently display testimonials
 * Give clues that others are already doing it
+
 ![McDonalds Arches](http://static.neatorama.com/images/2007-08/retro-mcdonald-sign.jpg "Over 100 Million Sold")
 
 ## Your Gut Lies
@@ -139,3 +140,16 @@ Give value and ask for little. Make the sign-up process as frictionless as possi
 	* culture 
 	* hiring
 	* monetization/mobile
+
+## Create email list of press
+* Find journalists interested in your products
+	* search niche on [Alltop](http://alltop.com/)
+	* get blog contacts email address
+        * create Google Docs form (contact, email, blog, URL)
+        * enter information in form
+        * import .csv into MailChimp
+        * email link to press kit .zip file
+                * provide everything they need to write a post
+                * press release (.pdf)
+                * screenshots
+                * logos
