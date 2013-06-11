@@ -164,3 +164,17 @@ Give value and ask for little. Make the sign-up process as frictionless as possi
 	* provide value they can share
 
 ### Who has already captured your audience's attention?
+
+## Get attention
+
+### All eyes are on the arsonist.
+
+* start a fire in your industry
+	* create controversy 
+	* counter intuition 
+* tip a sacred cow
+* start a debate
+* instigate a war
+* create a separate site
+* *Case Study*
+	* Canon v. Nikon
