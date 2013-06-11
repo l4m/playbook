@@ -159,7 +159,8 @@ Give value and ask for little. Make the sign-up process as frictionless as possi
 * leverage existing communities
 * market to groups
 * go where customers already are
-* find daily deal sites in your niche (they already have a list)
-         * create fresh content they approve of
-         * provide value they can share
-* Who has already captured your audience's attention?
+* find daily deal sites in your niche (they already have a list
+        * create fresh content they approve of
+        * provide value they can share
+
+## Who has already captured your audience's attention?
