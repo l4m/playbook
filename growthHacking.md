@@ -1,5 +1,7 @@
 # Growth Hacking
 
+### Acquiring customers with modern marketing
+
 ## Don't Knock the Hustle
 * There are no silver bullets.
 * It is not easy.
@@ -178,3 +180,24 @@ Give value and ask for little. Make the sign-up process as frictionless as possi
 * create a separate site
 * *Case Study*
 	* Canon v. Nikon
+
+## Form simple creative partnerships
+* How can others benefit from your audience?
+* How can you benefit from someone else's audience?
+
+### Create wins
+
+* give others work away to incentive your audience.
+* use affiliate links
+
+### People want partners
+
+## Percieved ubiquity
+
+### Give the illusion you are everywhere
+
+* visibility = mindshare
+* choreograph efforts
+* simultaneous efforts
+
+### Be large
