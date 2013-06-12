@@ -12,44 +12,43 @@ Opportunity to do things differently. Be unique and edgy.
 
 ## Buzz is Cheap
 * Hype is not earned.
-* You do not have to be special to get media attention.
+* Anyone can get media attention.
 
 ## Create a Meme
-* Memes are remembered
-* Memes are shared
-* Memes spread like a virus
+* Memes are remembered and shared.
+* They spread like a virus.
 
 ### What is your meme?
-* The essence of what you are solving
-* Short memorable idea
-* Should be largest text on your landing page
-* Avoid rotating banners (focus on one meme)
-* Quotes get retweeted becuase it is knowledge that has been distilled and is easy to spread.
-* Give your product viral potential
+* Short memorable essence of what you are solving.
+* Should be largest text on your landing page.
+* Avoid rotating banners (focus on one meme).
+* Quotes get retweeted becuase it is distilled knowledge and is easy to spread.
+* Give your product viral potential.
 
 ## Copywriting is a Drug
-* Simple and understandable
-* Not fancy with complex language
-* Show your personality
-* Put a human face on your product
-* Change behavior
-* Make people do what you want
-* Audience should enjoy time at your site
-* Play into how customers feel about your product
-* Address objections in a fun way
+* Simple and understandable.
+* Not fancy with complex language.
+* Show your personality.
+* Put a human face on your product.
+* Change behavior.
+* Make people do what you want.
+* Audience should enjoy time at your site.
+* Play into how customers feel about your product.
+* Address objections in a fun way.
 * *Case Study*
   * [AppSumo](http://www.appsumo.com) 
 	* [MailChimp](http://mailchimp.com)
 
 ## Design is Social Proof
-* Window into team and company
-* Shows you care about details and care about how you look
-* Should make customers comfortable giving you money
-* Credibility
+
+### Credibility
+* Window into team and company.
+* Care about details and how you look.
+* Make customers comfortable giving you money
 
 ### Good Design
 * Fonts: Should be uncommon
-* Colors: Muted schemes with CTAs that pop!
+* Colors: Muted schemes with CTAs that pop
 * Spacing: Open space
 * Imagery: Large images with emotional appeal
 * *Case Study*
@@ -58,10 +57,10 @@ Opportunity to do things differently. Be unique and edgy.
 	* [Nest](http://nest.com)
 
 ## Data Ruins a Story
-* Pitch the idea not metrics
-* Vague can be good
-* Start marketing with intrigue
-* Target community of beta testers
+* Pitch the idea not metrics.
+* Vague can be good.
+* Start marketing with intrigue.
+* Target community of beta testers.
 * *Stack* 
 	* [launchrock](http://launchrock.co)
 	* [MailChimp](http://mailchimp.com)
@@ -198,6 +197,6 @@ Give value and ask for little. Make the sign-up process as frictionless as possi
 
 * visibility = mindshare
 * choreograph efforts
-* simultaneous efforts
+* simultaneous campaigns
 
 ### Be large
