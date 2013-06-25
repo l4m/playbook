@@ -12,8 +12,8 @@ Rank: Pick top 3
 
 #### Create page with problem stickies
 
-## Zoom out on each problem #assumptions
-## Drill down on each problem #why
+### Zoom out with #assumptions
+### Drill down asking #why
 
 ### 5 Whys
 Technique from Toyota Production System
