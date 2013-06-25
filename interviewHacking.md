@@ -46,17 +46,17 @@ What are the top 3 assumptions we need to test?
 
 ### Conduct 3 Problem Interviews
 
-#### Falsifiable Hypothesis = [Specific Repeatable Action] will [Expected
-Measurable Action]
+#### Falsifiable Hypothesis = [Specific Repeatable Action] will [Expected Measurable Action]
+Example: Conducting 10 problem interviews will reveal {{problem}} is people like {{persona}}'s number one problem.
 
 Source of {{leads}}
 
-* Test: Subject
+#### Subject Test
 * Metric: Open rate
 * Baseline: [Email Marketing Benchmarks](http://mailchimp.com/resources/research/email-marketing-benchmarks/)
 * Iterate until {{open}} > {{benchmark}}
 
-* Testing: Body
+#### Body Test
 * Metric: Click rate
 * Baseline: [Email Marketing Benchmarks](http://mailchimp.com/resources/research/email-marketing-benchmarks/)
 * Iterate until {{click}} > {{benchmark}}
