@@ -10,6 +10,11 @@ Dump: One idea per sticky note.
 
 Rank: Pick top 3
 
+#### Create page with problem stickies
+
+## Zoom out on each problem #assumptions
+## Drill down on each problem #why
+
 ### 5 Whys
 Technique from Toyota Production System
 
@@ -48,6 +53,7 @@ What are the top 3 assumptions we need to test?
 
 #### Falsifiable Hypothesis = [Specific Repeatable Action] will [Expected Measurable Action]
 Example: Conducting 10 problem interviews will reveal {{problem}} is people like {{persona}}'s number one problem.
+* Notice this experiement is testing both {{persona}} and {{problem}}
 
 #### Timeboxing
 * Principle?
