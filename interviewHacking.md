@@ -49,6 +49,10 @@ What are the top 3 assumptions we need to test?
 #### Falsifiable Hypothesis = [Specific Repeatable Action] will [Expected Measurable Action]
 Example: Conducting 10 problem interviews will reveal {{problem}} is people like {{persona}}'s number one problem.
 
+#### Timeboxing
+* Principle?
+* Estimation
+
 Source of {{leads}}
 
 #### Subject Test
