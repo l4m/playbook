@@ -34,10 +34,6 @@ Look at your notes and determine which are most important to {{product}}.
 
 What are the top 3 assumptions we need to test?
 
-
-Falsifiable Hypothesis = [Specific Repeatable Action] will [Expected
-Measurable Action]
-
 ### Tools
 
 * Google
@@ -48,7 +44,23 @@ Measurable Action]
 * [Spreadsheet CRM](http://spreadsheetcrm.com/)
 * [MeetMe.SO](http://www.scheduleonce.com/meetme)
 
-Conduct 3 Problem Interviews
+### Conduct 3 Problem Interviews
+
+#### Falsifiable Hypothesis = [Specific Repeatable Action] will [Expected
+Measurable Action]
+
+Source of {{leads}}
+
+* Test: Subject
+* Metric: Open rate
+* Baseline: [Email Marketing Benchmarks](http://mailchimp.com/resources/research/email-marketing-benchmarks/)
+* Iterate until {{open}} > {{benchmark}}
+
+* Testing: Body
+* Metric: Click rate
+* Baseline: [Email Marketing Benchmarks](http://mailchimp.com/resources/research/email-marketing-benchmarks/)
+* Iterate until {{click}} > {{benchmark}}
 
 ### Resources
 [The 5 Whys](http://blogs.hbr.org/video/2012/02/the-5-whys.html)
+[Email Marketing Benchmarks](http://mailchimp.com/resources/research/email-marketing-benchmarks/)
