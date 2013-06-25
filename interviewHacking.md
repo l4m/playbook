@@ -4,9 +4,10 @@
 
 Test #assumptions with customer development.
 
-* *Prompt:* What are the problems preventing {{persona}} from acheiving thier {{Goals}}?
+* *Prompt:* What problems prevent {{persona}} from acheiving thier {{goals}}?
 
 Dump: One idea per sticky note.
+
 Rank: Pick top 3
 
 ### 5 Whys
@@ -18,12 +19,12 @@ Technique from Toyota Production System
 
 #### Ask Why 5 Times
 
-The "5" in the name derives from an empirical observation on the number of iterations typically required to resolve the problem.
+5 iterations are typically required for resolving problems.
 
-1. Find the human problem
-2. Make a proportional investment
-3. Prevent operational problems
-4. Find your optimal pace of work
+1. Identify human sources
+2. Make proportional investments
+3. Prevent operational issues
+4. Find optimal pace of work
 
 ### Assumptions
 * *Prompt:* Ask why 5 times for each {{problem}}.
