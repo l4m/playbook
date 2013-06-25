@@ -62,5 +62,5 @@ Source of {{leads}}
 * Iterate until {{click}} > {{benchmark}}
 
 ### Resources
-[The 5 Whys](http://blogs.hbr.org/video/2012/02/the-5-whys.html)
-[Email Marketing Benchmarks](http://mailchimp.com/resources/research/email-marketing-benchmarks/)
+* [The 5 Whys](http://blogs.hbr.org/video/2012/02/the-5-whys.html)
+* [Email Marketing Benchmarks](http://mailchimp.com/resources/research/email-marketing-benchmarks/)
