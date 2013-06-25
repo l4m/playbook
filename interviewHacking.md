@@ -38,6 +38,15 @@ What are the top 3 assumptions we need to test?
 Falsifiable Hypothesis = [Specific Repeatable Action] will [Expected
 Measurable Action]
 
+### Tools
+
+* Google
+  * Docs
+	* Spreadsheets
+	* Form
+* [ToutApp](http://www1.toutapp.com/) 
+* [Spreadsheet CRM](http://spreadsheetcrm.com/)
+* [MeetMe.SO](http://www.scheduleonce.com/meetme)
 
 Conduct 3 Problem Interviews
 
