@@ -41,14 +41,14 @@ What are the top 3 assumptions we need to test?
 
 ### Tools
 
+* [Spreadsheet CRM](http://spreadsheetcrm.com/)
+	* [Getting Started](http://spreadsheetcrm.com/getting-started.html)
 * Google
-  * Docs
-	* Spreadsheets
+	* Spreadsheet
 	* Form
 * [ToutApp](http://www1.toutapp.com/)
 	* [Tout University](http://www1.toutapp.com/browser-extensions/chrome/updated)
-* [Spreadsheet CRM](http://spreadsheetcrm.com/)
-	* [Getting Started](http://spreadsheetcrm.com/getting-started.html)
+
 * [MeetMe.SO](http://www.scheduleonce.com/meetme)
 
 ### Process
@@ -85,3 +85,4 @@ Source of {{leads}}
 ### Resources
 * [The 5 Whys](http://blogs.hbr.org/video/2012/02/the-5-whys.html)
 * [Email Marketing Benchmarks](http://mailchimp.com/resources/research/email-marketing-benchmarks/)
+* [How To Score Problem Interviews](http://leananalyticsbook.com/scoring-problem-interviews/)
