@@ -45,8 +45,9 @@ What are the top 3 assumptions we need to test?
   * Docs
 	* Spreadsheets
 	* Form
-* [ToutApp](http://www1.toutapp.com/) 
+* [ToutApp](http://www1.toutapp.com/)
 * [Spreadsheet CRM](http://spreadsheetcrm.com/)
+	* [Getting Started](http://spreadsheetcrm.com/getting-started.html)
 * [MeetMe.SO](http://www.scheduleonce.com/meetme)
 
 ### Conduct 3 Problem Interviews
