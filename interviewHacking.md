@@ -50,6 +50,15 @@ What are the top 3 assumptions we need to test?
 	* [Getting Started](http://spreadsheetcrm.com/getting-started.html)
 * [MeetMe.SO](http://www.scheduleonce.com/meetme)
 
+### Process
+* Copy {{Problem Interview Script 1}} markdown
+* Paste into new Doc {{naming}}
+* Edit Doc to remove content not beneficial to interview
+* Create Form {{naming}}
+
+Help Text
+Question Type
+
 ### Conduct 3 Problem Interviews
 
 #### Falsifiable Hypothesis = [Specific Repeatable Action] will [Expected Measurable Action]
