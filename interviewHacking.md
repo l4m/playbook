@@ -15,9 +15,9 @@ Rank: Pick top 3
 ### Drill Down: 5 Whys
 Technique from Toyota Production System
 
+* Root cause analysis
 * Exploring cause-and-effect relationships
-* Drilling down to root cause
-* Finding the human causes of technical problems
+* Finding human source of technical problems
 
 #### Ask Why 5 Times
 
