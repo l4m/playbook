@@ -12,10 +12,7 @@ Rank: Pick top 3
 
 #### Create page with problem stickies
 
-### Zoom out with #assumptions
-### Drill down asking #why
-
-### 5 Whys
+### Drill Down: 5 Whys
 Technique from Toyota Production System
 
 * Exploring cause-and-effect relationships
@@ -31,7 +28,7 @@ Technique from Toyota Production System
 3. Prevent operational issues
 4. Find optimal pace of work
 
-### Assumptions
+### Zoom Out: Assumptions
 * *Prompt:* Ask why 5 times for each {{problem}}.
 * *Prompt:* Why does {{persona}} need {{company}}?
 
