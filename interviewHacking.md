@@ -45,7 +45,6 @@ What are the top 3 assumptions we need to test?
 	* Form
 * [ToutApp](http://www1.toutapp.com/)
 	* [Tout University](http://www1.toutapp.com/browser-extensions/chrome/updated)
-
 * [MeetMe.SO](http://www.scheduleonce.com/meetme)
 
 ### Process
