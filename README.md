@@ -38,6 +38,7 @@ Launch a page connecting the dots.
 
 MVP
 ------------------------- 
+Value Stream Maps
 ### prototype
 
 Deliver the value with #conceirge treatment.
