@@ -159,3 +159,22 @@ Understand others ideas.
 * What are the top options?
 * Decide which caption captures emotion with dot voting.
 
+## Storyboard
+Problem > Solution > Outcome
+
+* What is the problem?
+* What do we do?
+* What is the result?
+
+Test with {{persona}}.
+
+**Hypothesis:** 3 out of 5 customers like {{persona}} must have {{product}}.
+
+* Gather feedback from 5 interviews.
+* Iterate to improve storyboard.
+
+## Techniques
+### Sketches not words
+Creative thinking
+### Dot voting
+Quicker decisions
