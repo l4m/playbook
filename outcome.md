@@ -104,6 +104,7 @@ Think later
 
 * Person (Clothepin man)
 * Context (where)
+* Expression (face)
 * Thought (talk bubble)
 * Caption: With {{product}} {{persona}} can …{{caption}}. 
 
