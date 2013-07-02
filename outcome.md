@@ -8,7 +8,7 @@ Write a value proposition that resonates with customers.
 * Value
 * Proposition
 
-We know *who*. Figure out *what*... #### Not to build!
+We know *who*. Figure out *what*... Not to build!
 
 ## Benefits
 * *Confidence* real problems
