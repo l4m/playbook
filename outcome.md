@@ -106,8 +106,6 @@ Think later
 * Thought (talk bubble)
 * Caption: With {{product}} {{persona}} can …{{caption}}. 
 
-### Do 5 more
-
 ### Faster, Pussycat! Kill! Kill!
 Don't get stuck.
 
