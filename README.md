@@ -20,13 +20,13 @@ Draw an image of your customer segment.
 
 Interview Hacking
 ------------------------- 
-[### problems] (https://github.com/l4m/playbook/blob/master/problems.md)
+[problems] (https://github.com/l4m/playbook/blob/master/problems.md)
 
 Create customer development experiments for what you need to know.
 
 Art of Storytelling
 ------------------------- 
-### outcome
+[outcome](https://github.com/l4m/playbook/blob/master/outcome.md)
 
 Write a value proposition that resonates with customers.
 
