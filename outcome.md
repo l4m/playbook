@@ -98,3 +98,23 @@ Give {{persona}} emotions. Put {{him/her}} in a scene.
 * *Discuss* amongst yourselves
 
 #### Don't sweat the technique.
+
+## Just Draw
+Think later
+
+* Person (Clothepin man)
+* Context (where)
+* Thought (talk bubble)
+* Caption: With {{product}} {{persona}} can …{{caption}}. 
+
+### Do 5 more
+
+### Faster, Pussycat! Kill! Kill!
+Don't get stuck.
+
+* "Speed kills sensor."
+* Emotion > Logic
+
+### Just do it.
+* Stop thinking
+* Get creative
