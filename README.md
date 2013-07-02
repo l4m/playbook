@@ -20,7 +20,7 @@ Draw an image of your customer segment.
 
 Interview Hacking
 ------------------------- 
-### problems 
+[### problems] (https://github.com/l4m/playbook/blob/master/problems.md)
 
 Create customer development experiments for what you need to know.
 
