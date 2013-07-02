@@ -59,9 +59,7 @@ Use learnings to write taglines and pitches.
 ## Matrix
 Of human emotions
 
-3 Mouths
-+ 2 Eyebrows
-= 9 Expressions
+3 Mouths + 2 Eyebrows = 9 Expressions
 
 ### When there is a need or desire
 There is an emotional response
