@@ -119,3 +119,42 @@ Don't get stuck.
 ### Just do it.
 * Stop thinking
 * Get creative
+
+## 6-up
+Fold paper, look at {{persona}}.
+#### Sticky: With {{company}} {{persona}} can …{{caption}}.
+
+* *How* can {{persona}} use {{product}}?
+* *When* does {{persona}} need {{product}}?
+* *Where* is {{persona}}?
+* *What* is {{persona}} using {{product}} to solve?
+
+### Envision each sketch
+Stories about {{persona}} using {{product}}.
+
+#### Re: Experiences != Technology
+
+### Draw 5 more
+Take 10 minutes.
+
+#### Each should have:
+* Person
+* Context
+* Expression
+* Thought
+
+Identify the moment {{persona}} falls in love with {{product}}.
+
+## Share
+Understand others ideas.
+
+* Work at wall
+* Line up sketches
+* Quiet read
+* Group discussion
+	* Understand not persuade
+	* Ask Questions
+
+#### Have a conversation
+* What are the top options?
+* Decide which caption captures emotion.
