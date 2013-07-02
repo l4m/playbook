@@ -1,47 +1,52 @@
 # Art of Storytelling
 
 ## ```{outcome}```
-Write a #value proposition that resonates with customers.
+Write a value proposition that resonates with customers.
 
-### UVP
-- **Unique**
-- **Value**
-- **Proposition**
+## UVP
+* Unique
+* Value
+* Proposition
 
-We know *who*.
-Figure out *what* &#40; **NOT** to build &#41;!
+We know *who*
+Figure out *what*
+*Not* to build
 
-### Benefits
+## Benefits
+* *Confidence* real problems
+* *Prioritized* customer needs
 
-- *Confidence* real problems
-- *Prioritized* customer needs
-- **Build** smallest MVP
-- **Test** ideas faster
+### Build
+Smallest MVP
 
-### Jobs to be done
+### Test
+Ideas Faster
 
-What does ```{persona}``` hire ```{product}``` to do?
+## Jobs to be done
+* What does {{persona}} hire {{product}} to do?
 
-#### Goal
-Find desirable ```{outcome}``` aligned with ```{vision}```!
+### Goal
+* Find desirable {{outcome}} matching {{vision}}.
 
-### Make Your Mark
-- Lines
-- Shapes
-  - Rectangles
-	- Circles
+## Make your mark
+### Straight lines
+Warm it up
+### Shapes
+* Rectangles
+* Circles
 
-### Faces
-- Nine
-	- Circles
-- Two
-	- Dots
-- Expressions
-	- Mouth
-		- Top
-		- Middle
-		- Bottom
-	- Eyebrows
-		- Left
-		- Middle
-		- Right
+## Faces
+### Nine
+Circles (3 rows of 3)
+### Two
+Dots (eyes)
+### Expressions
+* Mouths
+      * Top: Smiles
+      * Middle: Straight
+      * Bottom: Frowns      
+* Eyebrows
+      * Left: None
+      * Middle: Tilted up
+      * Right: Tilted down
+
