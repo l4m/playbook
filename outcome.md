@@ -157,4 +157,5 @@ Understand others ideas.
 
 #### Have a conversation
 * What are the top options?
-* Decide which caption captures emotion.
+* Decide which caption captures emotion with dot voting.
+
