@@ -166,8 +166,8 @@ Test with {{persona}}.
 
 **Hypothesis:** Interviewing 5 customers like {{persona}} reveals 3 must have {{product}}.
 
-* Gather feedback from 5 interviews.
-* Iterate to improve storyboard.
+* Gather feedback from interviews
+* Iterate to improve storyboard
 
 ## Techniques
 ### Sketches not words
