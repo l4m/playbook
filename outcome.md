@@ -21,10 +21,10 @@ Smallest MVP
 Ideas Faster
 
 ## Jobs to be done
-* What does {{persona}} hire {{product}} to do?
+What does {{persona}} hire {{product}} to do?
 
 ### Goal
-* Find desirable {{outcome}} matching {{vision}}.
+Find desirable {{outcome}} matching {{vision}}.
 
 ## Make your mark
 ### Straight lines
@@ -54,10 +54,10 @@ Dots (eyes)
 of human emotion
 
 ### Need or Desire
-* *Sketching* pictures evokes an emotional response.
+*Sketching* pictures evokes an emotional response.
 
 ### Delight
-* Capture the *moment* {{persona}} loves {{product}}.
+Capture the *moment* {{persona}} loves {{product}}.
 
 ### Understanding Emotion
 Share assumptions with team and customers.
