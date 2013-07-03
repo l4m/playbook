@@ -114,6 +114,12 @@ Don't get stuck.
 
 ## 6-up
 Fold paper, look at {{persona}}.
+
+### Redraw your last sketch in first square.
+
+### Envision five more sketches
+Eacy a story about {{persona}} using {{product}}.
+
 #### Sticky: With {{company}} {{persona}} can …{{caption}}.
 
 * *How* can {{persona}} use {{product}}?
@@ -121,12 +127,9 @@ Fold paper, look at {{persona}}.
 * *Where* is {{persona}}?
 * *What* is {{persona}} using {{product}} to solve?
 
-### Envision each sketch
-Stories about {{persona}} using {{product}}.
-
 #### Re: Experiences != Technology
+feeling > interface
 
-### Redraw your last sketch
 ### Draw 5 more
 Take 10 minutes.
 
