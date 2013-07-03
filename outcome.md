@@ -1,3 +1,4 @@
+
 # Art of Storytelling
 
 ## ```{outcome}```
@@ -48,39 +49,40 @@ Dots (eyes)
       * Middle: Tilted up
       * Right: Tilted down
 
-## Expressions
+3 Mouths + 2 Eyebrows = 9 Expressions
+
+## Matrix
+Of human emotions
+
 * *Sketching* pictures with emotions.
 * Capture the *moment* {{persona}} loves {{product}}.
 
 Use learnings to write taglines and pitches.
 
-## Matrix
-Of human emotions
-
-3 Mouths + 2 Eyebrows = 9 Expressions
 
 ### When there is a need or desire
 There is an emotional response
 
 ### Capture the moment of delight
-Understand it. Share understanding with team and customers.
+Understand it.
 
-### Emotion of customer
+### Understanding Emotion
+Share assumptions with team and customers.
 
 ## Collaboration
 
 Give {{persona}} emotions. Put {{him/her}} in a scene.
 
-### Person
-* Clothes pin man
+### Persona
+* Draw clothespin person
 * Pass
 * Give them an expression
 * Pass
 * Put them in a place
-     * Line around knee
+    * Line around knee
 	* Inside or out
 	* Office or store
-	* In traffic or on a tractor
+	* Traffic or tractor
 	* Add an object or two
 * Pass
 
@@ -100,11 +102,12 @@ Give {{persona}} emotions. Put {{him/her}} in a scene.
 ## Just Draw
 Think later
 
-* Person (Clothepin man)
+#### With {{product}} {{persona}} can …{{caption}}. 
+
+* Person (clothespin person)
 * Context (where)
 * Expression (face)
 * Thought (talk bubble)
-* Caption: With {{product}} {{persona}} can …{{caption}}. 
 
 ### Faster, Pussycat! Kill! Kill!
 Don't get stuck.
@@ -130,6 +133,7 @@ Stories about {{persona}} using {{product}}.
 
 #### Re: Experiences != Technology
 
+### Redraw your last sketch
 ### Draw 5 more
 Take 10 minutes.
 
@@ -138,8 +142,6 @@ Take 10 minutes.
 * Context
 * Expression
 * Thought
-
-Identify the moment {{persona}} falls in love with {{product}}.
 
 ## Share
 Understand others ideas.
@@ -152,6 +154,8 @@ Understand others ideas.
 	* Ask Questions
 
 #### Have a conversation
+Identify the moment {{persona}} falls in love with {{product}}.
+
 * What are the top options?
 * Decide which caption captures emotion with dot voting.
 
@@ -164,7 +168,7 @@ Problem > Solution > Outcome
 
 Test with {{persona}}.
 
-**Hypothesis:** 3 out of 5 customers like {{persona}} must have {{product}}.
+**Hypothesis:** Interviewing 5 customers like {{persona}} reveals 3 must have {{product}}.
 
 * Gather feedback from 5 interviews.
 * Iterate to improve storyboard.
