@@ -1,4 +1,3 @@
-
 # Art of Storytelling
 
 ## ```{outcome}```
@@ -52,19 +51,13 @@ Dots (eyes)
 3 Mouths + 2 Eyebrows = 9 Expressions
 
 ## Matrix
-Of human emotions
+of human emotion
 
-* *Sketching* pictures with emotions.
+### Need or Desire
+* *Sketching* pictures evokes an emotional response.
+
+### Delight
 * Capture the *moment* {{persona}} loves {{product}}.
-
-Use learnings to write taglines and pitches.
-
-
-### When there is a need or desire
-There is an emotional response
-
-### Capture the moment of delight
-Understand it.
 
 ### Understanding Emotion
 Share assumptions with team and customers.
