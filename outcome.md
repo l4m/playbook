@@ -115,7 +115,7 @@ Don't get stuck.
 ## 6-up
 Fold paper, look at {{persona}}.
 
-### Redraw your last sketch in first square.
+### Redraw last sketch in first square
 
 ### Envision five more sketches
 Eacy a story about {{persona}} using {{product}}.
