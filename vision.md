@@ -59,7 +59,7 @@ Write down adjectives and phrases that describe your company.
 
 The goal is to push yourself. Come up with more ideas than you are comfortable with. Exhaust the possibilities. In these exercises quantity is better than quality. We want to go broad to get out as many ideas as we can.
 
-## Stack-Rank and Select
+## Rank and Select
 Take 5 minutes to divide your sticky notes into two piles:
 
 * Everything Else
@@ -88,18 +88,18 @@ Discuss the values with each other, identify patterns and merge any duplicates.
 
 This should take no more than five minutes.
 
+## Cluster and Select
+Take 10 minutes to name the clusters, eliminate those that are less important, refine the wording.
+
 ### Consolidate
 * Stack up duplicates
 * Make clusters of similar ones
 
-Take 10 minutes to work at the wall and consolidate.
-
-## Cluster and Select
-Take 10 minutes to name the clusters, eliminate those that are less important, refine the wording.
-
 * Name the clusters<br>Write a word or phrase that describes each cluster.
 * Eliminate less important items<br>We want to get down to seven words or phrases 
 * Refine down to 5 stickies<br>You can remove stickies or reword them for 5 great stickies.
+
+Take 10 minutes to work at the wall and consolidate.
 
 Stack the most important values up, label them Values and put them off to the side.
 
@@ -124,6 +124,7 @@ Of all the things you could be doing, why are you doing this company?
 
 Take 5 minutes to answer this question.
 
+## Drill Down
 Now we need to get past the obvious to something more subtle and closely held. Take 10 minutes to drill down by asking why and writing down the new answer.
 
 Now answer the following:<br>
