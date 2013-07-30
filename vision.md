@@ -3,8 +3,6 @@
 ## ```{vision}```
 Lay the #cornerstone of your organization.
 
-Vision provides guidance about what core to preserve and what future to stimulate progress toward.
-
 Truly great companies understand the difference between what should never change and what should be open to iteration. The rare ability to manage continuity and change is closely linked to developing a vision. Vision provides guidance about what core to preserve and what future to stimulate progress toward. 
 
 The vision is what we aspire to achieve and requires significant change and progress to attain.
