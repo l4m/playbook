@@ -7,7 +7,7 @@ Passion &#043; Purpose
 ------------------------- 
 ### vision
 
-The cornerstone of your organization.
+The [cornerstone](https://github.com/l4m/playbook/blob/master/vision.md) of your organization.
 
 * What is your mission?
 * What are your core values?
