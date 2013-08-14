@@ -34,7 +34,7 @@ Landing Pages
 ------------------------- 
 ### persona + problems + outcome
 
-Launch a page connecting the dots.
+Launch a [page](https://github.com/l4m/playbook/blob/master/landing.md) connecting the dots.
 
 MVP
 ------------------------- 
