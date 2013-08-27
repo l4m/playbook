@@ -1,1 +1,1 @@
-[http://slid.es/earth2travis/target-acquisition](Deck)
+[Deck](http://slid.es/earth2travis/target-acquisition)
