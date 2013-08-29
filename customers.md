@@ -40,3 +40,9 @@ Even most individuals have multiple personas.
 * Golf Club
 * Rock Show
 
+### Fishing
+#### Unfair Competitive Advantage
+
+* Simplicity
+* Experience
+
