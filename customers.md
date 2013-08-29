@@ -12,6 +12,8 @@ This includes purchasing decisions, use of technology, customer service preferen
 
 Identifying the needs and goals of your customers helps you design and deliver effective products. Create a persona and validate it.
 
+Create personas for multiple segments. Compare and prioritize them.
+
 ## Keep it Simple
 
 Feeback is inversely proportional to polish. Design for design's sake is masturbation. Creating an elaborate persona is a good way to flex your skills but not the most efficient method of problem solving.
@@ -32,3 +34,9 @@ Design
 Marketing
 
 Not all traffic is good.
+
+Even most individuals have multiple personas.
+
+* Golf Club
+* Rock Show
+
