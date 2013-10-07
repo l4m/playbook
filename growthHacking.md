@@ -200,3 +200,6 @@ Give value and ask for little. Make the sign-up process as frictionless as possi
 * simultaneous campaigns
 
 ### Be large
+
+## Resources
+[Growth Hackers: A community-powered, growth-hacking knowledge base](http://acceleratedby.com/resource/growth-hackers)
