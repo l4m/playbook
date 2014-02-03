@@ -2,6 +2,13 @@
 persona &#43; problems &#43; outcome<br>
 Launch a page #connecting the dots.
 
+## Goal
+First and foremost you must determine what a single goal for the page. Every other element of the page should support this end.
+
+## Unique Value Proposition
+
+## Positioning Statement 
+
 Geoffrey Moore's positioning statement from [Crossing the Chasm](http://www.amazon.com/gp/product/0060517123/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060517123&linkCode=as2&tag=e2t-20):
 
 * For &#60;target customer&#62; 
