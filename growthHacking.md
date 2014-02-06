@@ -2,6 +2,8 @@
 
 ### Acquiring customers with modern marketing
 
+Overview and examples [slides](http://growthhackers.com/slides/slides-growth-hacking-by-morgan-brown/)
+
 ## Don't Knock the Hustle
 * There are no silver bullets.
 * It is not easy.
