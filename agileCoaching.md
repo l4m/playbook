@@ -25,7 +25,7 @@ Change:
 
 **Feedback:** Give feedback about what you noticed to the team. Help them incorporate feedback into the way they work so they spot problems themselves.
 
-**Educate:** Look for ways to encourage learning. You can do this by demostrating how to be Agile, by telling stories, and by running training sessions.
+**Educate:** Look for ways to encourage learning. You can do this by demonstrating how to be Agile, by telling stories, and by running training sessions.
 
 **Facilitate:** Make it easy to be Agile by smoothing the path for constructive communication and collaboration.
 
@@ -55,7 +55,7 @@ Patience is one of the most important qualities of an Agile coach. Change takes 
 #### 1.3 Getting Ready to Coach
 When you have experience as an Agile practitioner, you'll have a better appreciation of how it works, and you can use real examples to illustrate your points.
 
-##### Arrance to be Introduced
+##### Arrange to be Introduced
 Team members need to understand your role as Agile coach.
 
 ###### Exercise: Questions to Ask Before Coaching
@@ -177,3 +177,111 @@ Address roadblocks before attempting to coach a team in Agile.
 * Pause to reflect and learn from your mistakes.
 * Look for opportunities to learn from other Agile coaches, both inside and outside your company.
 * When the team is running an effective Agile process, it's probably time to move on.
+
+### 2 Working with People
+
+Tap into their expertise to reveal what is holding them back.
+
+#### 2.1 Listening
+
+A coach listens deeply.
+
+**Create space:** Don't chime in and talk about yourself. If there's a pause in the conversation, you don't have to fill the void.
+
+**Be open:** Put on a relaxed and open expression rather than frowning or grinning, which might make them feel you're judging them or not taking them seriously.
+
+**Show interest:** Use your eyes, look into their face, and make eye contact from time to time (without staring intently) to show you're interested in what they're saying.
+
+**Affirm:** Nod your head to show you understand. You can also make "mmm" and "ah" sounds to show you heard them.
+
+* Listen before giving advice.
+* Give speaker full attention.
+* Understand feelings and needs.
+* Ask clarifying questions.
+* Do not challenge or criticize.
+* Prove you listened by following up.
+
+##### Reading Between the Lines
+
+Focus on the person speaking, notice how they express themselves, and consider their possible motivation for starting the conversation:
+
+* Are they looking to gain support, provide a favor, or repay a favor?
+* Are they looking for empathy, advice, or more information?
+* Are they flagging a problem because they want you to help them solve it?
+
+Pat attention to any nonverbal cues such as body language and the tone of voice they use:
+
+* Are they upset, angry, excited?
+* Do they seem uncomfortable or relaxed about the conversation?
+* Are they acting a little different that usual?
+
+##### Maintaining Trust
+
+* Summarize key points and check them with speaker.
+* Complete further investigation before committing to a course of action.
+* Do not make immediate promises about resolution.
+* Check whether they person prefers discussion to remain private.
+
+##### Background Listening
+
+Take notes and quotes for follow-up.
+
+A healthy team buzzes with sporadic conversation when team members are working together to create software. A quiet team may not be working.
+
+Listening provides information about the team and the issues they are struggling with.
+
+#### 2.2 Giving Feedback
+
+* Separate basic information from your feelings.
+* Give examples rather than interpretation.
+* Make suggestions on how to handle similar situations in the future.
+* Let them know you noticed what they did and they positive effects that resulted.
+
+Timely feedback helps nudge the team into improving their process without directing them what to do.
+
+#### 2.3 Resolving Conflicts
+
+If you detect concealed conflict listen to the concerns of individuals. Consider whether the dispute will resolve itself.
+
+##### Nonviolent Communication
+* **Observation:** When you…(describe your observation)?
+* **Feeling:** Are you feeling…(guess the emotion)?
+* **Need:** Because you need…(guess the need)?
+* **Request:** Would you like (me, him, her, them) to (specific action)?
+
+Mediators cannot take sides. Understand both. Frame in context of the team. Explain situational factors at play.
+
+Some differences of opinion are healthy. Too much emphasis on peace and harmony signals complacency.
+
+#### 2.4 Building Agreement
+
+Gradient scales run from endorse to block. Identify when there is a lack of consensus. When a person does not agree with an action, they are unlikely to implement it enthusiastically.
+
+##### Fist-to-Five Voting
+
+* Fist is block
+* Number of fingers indicate level of support
+* Less than 3 fingers should state objections
+
+#### 2.5 Hurdles
+
+##### Emotional Outburst in a Meeting
+
+* Call break and recover composure.
+* Understand what has upset him.
+* Check with team to determine if issue should be resolved before meeting continues.
+
+##### Lack of People Skills
+
+People have different communication preferences. Some prefer direct, others need space.
+
+##### Cultural Differences
+
+Become attuned to tolerance for ambiguity and individualism.
+
+#### 2.6 Checklist
+
+* Practice deep listening to understand the problems the team faces and build trust. Give your full attention to the person talking, and ask clarifying questions to check that you have understood what they are saying.
+* When giving feedback, separate what you saw or heard from your feelings about the situation. Give specific examples of what you noticed rather than general comments. Tell them what you saw or heard, and then ask about their explanation of events. Now put your heads together to come up with ideas for handling the situation next time.
+* If a conflict erupts, make sure all sides get to share their view point. Don't step in to resolve every conflict for the team because otherwise they rely on you as a peacemaker rather than learning to get along.
+* Use gradients of agreement to reveal the level of support for a change. This allows the team to find out whether there is major or only minor disagreements.
