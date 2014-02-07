@@ -285,3 +285,149 @@ Become attuned to tolerance for ambiguity and individualism.
 * When giving feedback, separate what you saw or heard from your feelings about the situation. Give specific examples of what you noticed rather than general comments. Tell them what you saw or heard, and then ask about their explanation of events. Now put your heads together to come up with ideas for handling the situation next time.
 * If a conflict erupts, make sure all sides get to share their view point. Don't step in to resolve every conflict for the team because otherwise they rely on you as a peacemaker rather than learning to get along.
 * Use gradients of agreement to reveal the level of support for a change. This allows the team to find out whether there is major or only minor disagreements.
+
+### 3 Leading Change
+
+People need to understand what's driving the change before they'll throw energy into it. Engage them in designing change by asking questions and building on their ideas.
+
+#### 3.1 Introducing Change
+
+* Tell stories about other Agile teams you have worked with to give them an appreciation of what's possible.
+* Talk about "When we…" rather than "If we…," and then make sure they know you're there to provide support and help them keep going.
+* Allow time for new ideas to soak in.
+
+You have to do more than suggest a course of action for people to follow it. You need to lead the way by explaining why it's important and then show them how to get started with it.
+
+##### Show Them How
+
+**Educate the team:** Arrange an in-house training course so they can learn how to write unit tests.
+
+**Demonstrate:** Pair with developers to show them how to write unit tests.
+
+**Make it visible:** Work with the team to agree on a goal for how many unit tests they will write every day; track progress toward this goal on the team board.
+
+##### Sell the Problem
+
+Before sharing ideas for improvement, sell the problem that is driving the change. Paint a clear picture of the likely outcome if the team does not make changes. You can sell a problem more convincingly if you can point to supporting evidence.
+
+As a coach, your focus is on process improvement, not individual performance.
+
+##### Building Ownership for Change
+
+Encourage team members to look at the positive outcomes of improving the Agile process. People are more likely to follow through when it's their idea.
+
+##### Make Change and Experiment
+
+Framing a change as an experiment helps focus the team on the benefit because you'll need to discuss how to evaluate whether the experiment is a success.
+
+Once a team tries change as an experiment, team members get used to the new way of working. Each change they adopt reduces their resistance to the next change.
+
+#### 3.2 Asking Questions
+
+When you ask someone a question, you show that you respect their opinion and you're interested in their answer.
+
+Here are some powerful questions you can ask:
+
+* What could we do to stop this bug from happening again?
+* How can we ship on time?
+* How can we work more effectively?
+
+Use questions to challenge their beliefs about how the organization works and what they can and cannot do. Help them see when assumptions they have made haven't been verified.
+
+Ask open-ended questions to encourage conversation and invite the person to reflect and share their opinion.
+
+##### What to Ask
+
+###### Ask for Help
+Share a problem with an individual and solicit ideas.
+
+###### Thinking Questions
+* How long have you been thinking about this problem?
+* How often do you think about this?
+* Are you satisfied with the amount of thought you have given this problem?
+* Can you spot any gaps in your thinking?
+* What insights are you having?
+
+Thinking questions encourage the person to make a mental shift and think about the problem at a more strategic level.
+
+###### Reflective Questions
+Encourage the team to notice more about how they work by asking questions about what they noticed afterward.
+
+###### Five Whys
+Five Whys is a technique, invented by Taiichi Ohno, that you can use with the team to do root cause analysis.
+
+Start by asking about the surface problem. Come up with a solution for that, and then dig down further by asking what caused the surface problem, what caused that, and what caused that.
+
+The Five Whys is a powerful technique; however, it can expose problems that are outside the control of the team and have to be escalated to the right level in the organization.
+
+##### When Not to Ask Questions
+
+* Take care not to ask questions when you actually want to give guidance.
+* If all you ever do is ask questions, it can seem like you're holding out and not sharing what you know.
+* Asking questions might not help where trust between you and a person is low.
+
+#### Encouraging Learning
+
+* Encourage team to allow time for learning in their plans.
+* Encourage them to take the initiative to learn about it for themselves.
+
+##### Create Learning Opportunities
+
+* Make it easy for people to access a variety of learning resources.
+* Let the team see that you spend time on learning and share lessons.
+* Let team members give talks to demonstrate what they have learned.
+* Generate interest by bringing in an expert to give a lecture.
+
+##### Going Outside the Organization to Learn
+
+* Conferences are a great way to expose the team to new ideas.
+* Encourage sharing of what was learned.
+
+#### 3.4 Facilitating Meetings
+
+The first time the team tries a new Agile meeting, such as a retrospective or planning meeting, offer to facilitate the meeting to show them how it's done. During the meeting, explain the process you're following to the team so they can learn how to facilitate the meeting themselves.
+
+Here are some tips to help make your meetings effective.
+
+**Choose a time:** Establish a meeting time that works for the whole team, and give them plenty of notice about any preparation they need to do.
+
+**Set up the space:** Consider what kind of space you want for the meeting. Avoid meeting rooms with very large tables because this spreads the team too far apart to see index cards on the table. You'll also need something to capture notes on, such as a flip chart or whiteboard.
+
+**Focus the meeting:** Start the meeting by clearly stating the purpose of the meeting and giving a quick overview of the agenda. Remind the team of any working agreements or ground rules for the meetings.
+
+**Keep it flowing:** Stay on your toes during the meeting, and ensure the conversations in the meeting stay on topic and are productive. When you act as a "facilitator," your aim is to make the meeting easier for the people in it--like oil in an engine. You keep the meeting moving and focused on producing useful output. This is easier to do if you are not taking an active position in the discussion--step back to maintain a neutral position. If you need to offer an opinion, then explicitly step out of the facilitator role.
+
+**Encourage everyone to participate:** Make sure everyone's opinion is heard. This means only one person talking at a time. When someone is making broad generalizations, it can help to ask for examples and ask clarifying questions to draw out the details.
+
+**Summarize key points:** Before you write up any points on the whiteboard, check to see you have really understood they point by repeating what you heard.
+
+**Close the meeting:** When you bring the meeting to a close, make sure that outputs are recorded appropriately. Taking digital photographs is a quick way to capture whiteboard sketches and meeting notes. 
+
+#### Hurdles
+
+The following are some hurdles you may encounter.
+
+##### Some People Don't Change
+
+Don't get hung up on trying to convince laggards.
+
+##### Bumping into Company Politics
+
+* Politics become an issue when you are perceived as a threat to existing power.
+* Be careful not to get too closely aligned with an authority figure.
+* Make it clear you are not a spy from management and you're there to serve them.
+
+##### Conflicting Agendas
+
+* Sometimes it's hard to maintain your focus when others are looking to you for support.
+* Be neutral in public, explain in private the need to "pick our battles."
+* Work together to introduce their change at the right opportunity.
+
+#### 3.6 Checklist
+
+* Share you passion for Agile, with being too fanatical. Talk about it, demonstrate it, and offer to help others with it. Encourage and inspire the team that Agile can and does work.
+* Sell the problem to the team. Help them see why they need to change. What are the long-term implications of staying with the status quo? Also talk to the team members individually. How will they personally benefit from the change?
+* When you meet resistance, try to understand where it's coming from. Is the problem with the idea or with the way you presented it? Are there good reasons to be concerned about the proposed idea? Are you listening properly to their concerns?
+* Ask questions to engage the team in improving their Agile process. Try asking for help to enlist support, ask thinking questions to provoke reflection, and use Five Whys for root cause analysis.
+* Encourage different ways to learn about Agile: leave books around the office, share blogs that you read, and point people to podcasts. Organize presentations and study groups that are open to other teams in the organization. Let people know about upcoming Agile events, and take people with you to the local Agile user group.
+* Make new meetings easy for the team by facilitating then the first time around. Give them a running commentary so they can hear your thought process about running the meeting. The next time, help the team prepare for the meeting, and give them feedback afterward.
