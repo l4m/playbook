@@ -1,8 +1,8 @@
 # <a href="http://www.amazon.com/gp/product/1934356433/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356433&linkCode=as2&tag=e2t-20">Agile Coaching</a>
 
-## Coaching Basics
+## I Coaching Basics
 
-### Starting the Journey
+### 1 Starting the Journey
 
 **Mission:** Help teams produce great software by applying agile.
 
