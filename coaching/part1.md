@@ -403,7 +403,7 @@ Here are some tips to help make your meetings effective.
 
 **Close the meeting:** When you bring the meeting to a close, make sure that outputs are recorded appropriately. Taking digital photographs is a quick way to capture whiteboard sketches and meeting notes. 
 
-#### Hurdles
+#### 3.5 Hurdles
 
 The following are some hurdles you may encounter.
 
