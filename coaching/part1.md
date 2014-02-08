@@ -366,7 +366,7 @@ The Five Whys is a powerful technique; however, it can expose problems that are 
 * If all you ever do is ask questions, it can seem like you're holding out and not sharing what you know.
 * Asking questions might not help where trust between you and a person is low.
 
-#### Encouraging Learning
+#### 3.3 Encouraging Learning
 
 * Encourage team to allow time for learning in their plans.
 * Encourage them to take the initiative to learn about it for themselves.
