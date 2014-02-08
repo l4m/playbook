@@ -431,3 +431,143 @@ Don't get hung up on trying to convince laggards.
 * Ask questions to engage the team in improving their Agile process. Try asking for help to enlist support, ask thinking questions to provoke reflection, and use Five Whys for root cause analysis.
 * Encourage different ways to learn about Agile: leave books around the office, share blogs that you read, and point people to podcasts. Organize presentations and study groups that are open to other teams in the organization. Let people know about upcoming Agile events, and take people with you to the local Agile user group.
 * Make new meetings easy for the team by facilitating then the first time around. Give them a running commentary so they can hear your thought process about running the meeting. The next time, help the team prepare for the meeting, and give them feedback afterward.
+
+### 4 Building and Agile Team
+
+Cohesive teams take time to jell. Establish conditions for teamwork. Environment should support working together to build software.
+
+#### 4.1 Helping a Team Jell
+
+An effective team runs like a well-oiled machine.
+
+##### Social Glue
+
+By working together, the team will start to understand one another's perspective and problems. Create opportunities for people to get to know each other better.
+
+##### Build Trust
+
+Team collaboration requires trust.
+
+> Trust builds on reasonable self-disclosure.
+> - George Dinwiddie
+
+* Show it is safe to be open.
+* Be transparent about motives.
+* Disclose your experiences, opinions and feelings.
+* Admit mistakes
+* Ask for help
+
+People do not feel safe in a blame culture. Trust requires safety.
+
+##### Bridge the Gap
+
+Understand different disciplines by playing another role. Pair and contribute as much as possible. Without mutual respect the team will not flourish.
+
+#### 4.2 Creating a Team Space
+
+Workspace to keep communication flowing. It is hard to build and Agile team when people are segregated.
+
+* Shared
+* Break-out area
+* Meeting room
+
+Encourage the team to design their own workspace and customize it to suit them. Plants, books, and pictures can make a space feel safer to work in.
+
+The virtual environment needs to support collaboration too.
+
+* Set up wikis and shared repositories.
+* Be consistent with development and testing environments.
+
+#### 4.3 Balancing Roles
+
+The relationship between customers and developers is crucial because they need to work together to create the best product. Everyone needs to feel like they are part of the same team, working toward the same goal. Make responsibilities clear to the whole team.
+
+* Customer owns business case and prioritizes what software should do.
+* Development team decides how to build it and how long it will take.
+
+A customer team must contain all the necessary experience to work out the user stories and prioritize them.
+
+Sometimes the best solution is a "near-customer," who helps work out the details of the requirements with the team, and a "far-customer," who makes the decisions about business priorities.
+
+If the roles get out of balance, one side or the other will be overworked. You can help as a coach by making the side effects of the imbalance more visible so management can consider addressing the problem.
+
+#### 4.4 Energizing the Team
+
+Sometimes teams get stuck or overwhelmed.
+
+##### Not Too Easy, Not Too Hard
+
+The secret to great teams is they need reachable but challenging goals.
+
+* Break work into meaningful chunks
+* Automate the easy stuff
+* Encourage experimentation and trying new ideas
+
+##### Find a Compelling Goal
+
+Knowing they are producing a useful product should help the team engage.
+
+* Understand the big picture and the team mission.
+* Team should meet end users.
+* Connect opportunities to personal goals.
+
+##### Time for Innovation
+
+Developers get burned out working on a continuous stream of user stories. Teams become demotivated without time to explore new technology or experiment with innovative products. Help the team find their own mini-projects by listening to them and encouraging them to follow-up on ideas.
+
+**Gold Cards** allow team members to work on anything they want for the day. Each get two cards per month and can use them together for collaborative projects and learning.
+
+##### Celebrate Success
+
+* Lunch or drinks
+* Demos
+* Thanks from management
+* Feedback from users
+
+##### Don't Demotivate
+
+* People are happy about the work they do.
+* People are unhappy with the situation in which they do it.
+
+Situational problems include stress and company culture. Hygiene factors are not noticed until they are absent.
+
+##### Beware of Incentives
+
+Incentive schemes encouraging indvidual productivity damage collaboration and foster competition. The team will work better when they're motivated by the satisfaction of doing a good job and producing a great product.
+
+#### 4.5 Hurdles
+
+The following are some hurdles you may encounter.
+
+##### Teams Aren't Cross-Functional
+
+A fundamental Agile priniciple is cross-functional teams with different disciplines working together to build the best software. Hand-offs between disciplines cause delays.
+
+##### No On-Site Customer
+
+Working with remote customers can cause communication problems and resentment. Meet when possible and encourage conversation on multiple channels. Humans are wired to respond to seeing faces.
+
+##### Team is Too Big
+
+Teams with more than 10 members have long meetings and less individual responsibility. Break projects into feature teams.
+
+##### Team is a Resource Pool
+
+Agile assumes one project at a time. Changing priorities causes interruptions and lack of focus on the goal.
+
+##### Team Members Ostracize Someone on Their Team
+
+If team avoids one person get an explanation from both sides.
+
+##### Team Becomes Complacent
+
+* Increase visibility of work to senior stakeholders.
+* Increase feedback to team about business value generated by their work.
+
+#### 4.6 Checklist
+
+* Create opportunities for the team to get to know each other, which helps the team jell. Regularly spend informal time together, such as lunch or drinks.
+* Create a shared workspace to help the team work together well. Try to get the whole team sitting together.
+* Make role responsibilities clear. Get the customer support they need to work within the team.
+* Ensure the team has a reachable but challenging goal. Make sure the work is neither too easy nor too hard.
+* Arrange food or drink to celebrate a release. Ask customers and management to that the team.
