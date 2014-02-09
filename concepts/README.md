@@ -18,3 +18,8 @@ The art, science and craft of making things.
 Japanese for "improvement" or "change for the best."
 
 Philosophy of continuous improvement to processes in manufacturing, engineering, and business management.
+
+* Genba: Place where value is created
+* Muda: Waste
+* Mura: Irregular
+* Muri: Overburden
