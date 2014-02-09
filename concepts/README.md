@@ -19,8 +19,12 @@ Japanese for "improvement" or "change for the best."
 
 Philosophy of continuous improvement to processes in manufacturing, engineering, and business management.
 
-* Genba: Place where value is created
-* Gembutsu: Objects
+* Gemba: Place where value is created
 * Muda: Waste
 * Mura: Irregular
 * Muri: Overburden
+
+## Genchi Genbutsu
+> go and see
+
+In order to truly understand a situation one needs to go to gemba where work is done.
