@@ -27,4 +27,4 @@ Philosophy of continuous improvement to processes in manufacturing, engineering,
 ## Genchi Genbutsu
 > go and see
 
-In order to truly understand a situation one needs to go to gemba where work is done.
+In order to truly understand a situation one needs to go the gemba where work is done.
