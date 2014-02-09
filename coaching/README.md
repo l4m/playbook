@@ -111,6 +111,18 @@ These questions are a good start. You want the team to adopt the daily standup a
 
 The daily standup reveals how well team members are working together. When it is quick, high-energy, and self-managed, then the team is on the right track.
 
+#### 5.1 Standing Up
+
+#### 5.2 For the Team by the Team
+
+#### 5.3 Handling Issues
+
+#### 5.4 Setting the Time
+
+#### 5.5 When to Coach
+
+#### 5.6 Hurdles
+
 #### 5.7 Checklist
 
 * Find a space that the team can run their daily standup around their team board. If they don't have room in their workspace, then use a portable team board.
