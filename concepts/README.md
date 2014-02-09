@@ -1,10 +1,12 @@
 # Concepts
 
+Many lean concepts originate in Japanese manufacturing.
+
 ## Monozukuri
 
 The art, science and craft of making things.
 
-### Japanese Manufacturing Style
+### Style
 
 * Technology and processes integrating development, production and procurement.
 * Includes intangible qualities such as craftsmanship and dedication to continuous improvement.
@@ -15,7 +17,9 @@ The art, science and craft of making things.
 
 ## Kaizen
 
-Japanese for "improvement" or "change for the best."
+### Improvement
+
+> Change for the best
 
 Philosophy of continuous improvement to processes in manufacturing, engineering, and business management.
 
