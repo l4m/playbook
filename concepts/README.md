@@ -17,4 +17,4 @@ The art, science and craft of making things.
 
 Japanese for "improvement" or "change for the best."
 
-Philosophy or practices focusing on continuous improvement of processes in manufacturing, engineering, and business management.
+Philosophy of continuous improvement to processes in manufacturing, engineering, and business management.
