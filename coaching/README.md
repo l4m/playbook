@@ -99,7 +99,7 @@ Cohesive teams take time to jell. Establish conditions for teamwork. Environment
 * Ensure the team has a reachable but challenging goal. Make sure the work is neither too easy nor too hard.
 * Arrange food or drink to celebrate a release. Ask customers and management to that the team.
 
-## II Planning as a Team
+## [II Planning as a Team](part2.md)
 
 ### 5 Daily Standup
 
