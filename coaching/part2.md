@@ -36,7 +36,7 @@ Talk about the progress on tasks rather than giving exhaustive accounts of what 
 
 The whole team comes to daily standup: developers, testers, designers, customers, Agile coach, and so on. The focus should be work in the current plan. Make sure conversations can be followed by the whole team.
 
-#### Handling Issues
+#### 5.3 Handling Issues
 
 Leave the discussion on how to solve blockers until the end of the daily standup. Move on once the problem is understood. The team won't have the full picture until everyone has spoken, and each issue may not require the whole team to solve it.
 
