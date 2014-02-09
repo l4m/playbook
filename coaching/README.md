@@ -98,3 +98,25 @@ Cohesive teams take time to jell. Establish conditions for teamwork. Environment
 * Make role responsibilities clear. Get the customer support they need to work within the team.
 * Ensure the team has a reachable but challenging goal. Make sure the work is neither too easy nor too hard.
 * Arrange food or drink to celebrate a release. Ask customers and management to that the team.
+
+## II Planning as a Team
+
+### 5 Daily Standup
+
+* What did I do yesterday?
+* What will I do today?
+* What is in my way?
+
+These questions are a good start. You want the team to adopt the daily standup as their own meeting; it's where they decide who's working on what, and it encourages them to self-organize.
+
+The daily standup reveals how well team members are working together. When it is quick, high-energy, and self-managed, then the team is on the right track.
+
+#### 5.7 Checklist
+
+* Find a space that the team can run their daily standup around their team board. If they don't have room in their workspace, then use a portable team board.
+* Make the time that the daily standup runs a team decision. You can run it more than once a day, if not everyone works the same hours.
+* Encourage the team to keep their replies short and sweet. The three-question formula can help the team get started, but don't let this become a straightjacket for daily standup conversation.
+* Keep the daily standup flowing; a speaking token puts this in control of the team.
+* Ask the customer along to the daily standup to give her progress and updates.
+* Gather issues that come up on a whiteboard where everyone can see the. Prioritize it with the team, and follow up afterward.
+* Review the effectiveness of the daily standup in the retrospective, and experiment with the format.
