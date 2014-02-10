@@ -90,3 +90,86 @@ Recommend the team uses bug-tracking software only for bugs that are found after
 * Recommend that software is made available to customers during the iteration. Encourage the team to look for slices of user stories that can be delivered early rather than waiting until the iteration ends.
 * Use the team board to display bugs that need to be fixed before the end of the iteration. Instead of creating a hidden backlog in the bug tracker, ask testers to work with the customer to turn bugs that are deferred into new user stories that can be planned into future iterations.
 * If the team doesn't get all the stories done, talk about why this happened with the whole team in the demo or retrospective. Clear the board at the end of the iteration, and take any incomplete stories into iteration planning. Help the team gather velocity data so they don't overcommit in the next iteration.
+
+### 10 Driving Development with Tests
+
+Developers can be confident they're building on a solid foundation, and testers can focus on edge cases instead of wasting time on trivial problems.
+
+#### 10.1 Introducing Test-Driven Development
+
+Allow plenty of time for the team to make a transition to TDD. It's likely to take a couple of months before they're really driving their code with tests. Your first challenge with implementing TDD is working out where to start. We recommend you pick off one problem at a time rather than attempting to introduce TDD in one big bang.
+
+##### Buy-in from the Team
+
+The team has to make a shared commitment to write tests and run them. They need some compelling reasons before they will commit to taking on the extra work of writing automated tests. Make sure they understand the benefits of TDD and that they appreciate the drivers behind the change.
+
+##### Time to Learn How to Write Tests
+
+Once they're convinced about making the move to TDD, the team members need to learn how to do it.
+
+##### Determining Where to Start Writing Tests
+
+Gather the team together to agree on a test strategy for how different areas of the code will be tested. A good place to start is with unit tests.
+
+A test is not a unit test if
+
+* It talks to the database,
+* it communicates across the network,
+* it touches the file system,
+* it can't run correctly at the same time as any of your other unit tests, or
+* you have to do special things to your environment (such as editing config files) to run it.
+
+Most teams we work with start with a basic rule: they'll write tests for new code and any changes to existing code.
+
+#### 10.2 Continuous Integration
+
+Continuous Integration (CI) is integrating code changes early and often. Working this way, the latest code is available to the whole team in small slices, as soon as it's ready, rather than in one big lump.
+
+CI is an attitude, not a tool. It's a shared agreement by the team that:
+
+1. When we get the latest code from the repository, it will always build successfully and pass all tests.
+2. We will check in our code every two to four hours.
+
+The vital part of adopting CI is that the team wholeheartedly embraces this philosophy, making sure all tests pass all the time.
+
+**Start by building CI discipline.**
+Every time a developer checks in code, they run the build and wait to see whether all tests pass before moving on to develop more code. If the tests don't pass, then the developer needs to fix the problem.
+
+Keep your eyes open to see whether the team still takes responsibility for fixing broken builds. The key is improving feedback on build status so the team knows as soon as possible that the build is broken.
+
+##### Improving Feedback on Build Status
+
+It is important everyone on the team is alerted when the build is broken because their last check-in could have caused tests to fail. Make the failing tests more visible to the whole team by making the build page more interesting. Feedback needs to be fast as well as visible.
+
+#### 10.3 Sustaining Test-Driven Development
+
+Watch out for slow-running tests. Encourage the team to factor in time to improve their build scripts and infrastructure to avoid this.
+
+Work with them to make test coverage more visible. Code coverage analysis tools can be used to measure this.
+
+#### 10.4 Hurdles
+
+The following are some hurdles you may encounter.
+
+##### No Test Tools Available
+
+If no commercial or open source tools are available write a simple automated test framework.
+
+##### Maintain Test-First Discipline
+
+Working in pairs to discuss design can help developers get started with TDD.
+
+##### Everyone Works in Their Own Branch
+
+This causes a problem because each integration may be quite time consuming, often revealing misunderstandings within the team caused by developers working in isolation. Each integration also brings with it the risk of breaking other code and introducing defects.
+
+#### 10.5 Checklist
+
+* Allow plenty of time for making the transition to Test-Driven Development. This is a large change for a team to take on board in one go. Take an iterative approach to introducing TDD. Spend time with the team understanding what the blockers are, and then apply the PrOpER cycle.
+* A completely greenfield project can start with writing tests first. When the team has to retrofit tests to existing code, they'll need time to figure out where to start. They can start writing a few automated tests per day or work test-after rather than test-first until they have a handle on how to test any legacy code.
+* The whole team has to agree to the approach; all developers will need to write and run tests for TDD to work. Make sure the team understands the problems that TDD will solve.
+* Factor time into plans for the team to learn how to write automated tests. Support the team's learning by organizing training and coding dojos.
+* Get the team together to agree on a test strategy; unit tests in the middle layer are usually a safe place to start. Don't forget to get agreement on automated testing basics, such as where tests will be stored and how they will be run. Review the test strategy with the team to work out where to go next.
+* Continuous Integration is an attitude, not a set of tools. Suggest that the team start with a synchronous CI process before relying on a build server.
+* If the team uses a CI server, make it easy for the team to take responsibility for fixing broken tests. Work on making build status visible to the whole team rather than buried in email.
+* Watch out for slow-running tests. Encourage the team to factor time into their plans for improving their build scripts and infrastructure. Test coverage can help the team get a better understanding of how well they're doing.
