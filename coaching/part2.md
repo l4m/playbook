@@ -106,3 +106,101 @@ You don't want a person to end up in the center of the circle or outside it. Con
 * Ask the customer along to the daily standup to give her progress and updates.
 * Gather issues that come up on a whiteboard where everyone can see the. Prioritize it with the team, and follow up afterward.
 * Review the effectiveness of the daily standup in the retrospective, and experiment with the format.
+
+### 6 Understanding What to Build
+
+To deliver valuable software, understand both user and business benefits.
+
+User stories underpin all the work an Agile team does--they're the basis of plans, development, and testing. The whole point of user stories is to ask questions to better understand what users need and to find ways of breaking requirements down.
+
+#### 6.1 Life Cycle of a User Story
+
+Idea > Conversation > Cases > Tests > Feedback
+
+Help the team understand that a user story evolves from one artifact into another over time through conversation with the customer. Encourage the team to keep asking questions to refine their understanding of what to implement.
+
+##### Card, Conversation, Confirmation (3Cs)
+
+**Card:** Writing stories on index cards to facilitate group conversations
+
+**Conversation:** Asking questions and suggesting ways to split the story
+
+**Confirmation:** Agreeing on what will be the tests uses to asses whether the story is complete
+
+#### 6.2 Encouraging Conversations
+
+It's the conversations about user stories that enable the team to understand what needs to be built. These conversations need to be driven by developers and testers, checking with the customer what they have understood they story details as they implement it.
+
+New stories and future iterations are worked out in smaller groups with a customer and a couple of developers or a tester.
+
+#### 6.3 Working With Cards
+
+Record conversations about user stories with index cards or sticky notes. They are easier to group and move around when they are physical.
+
+* Demonstrate writing cards, and then stop.
+* When someone suggests a new idea, invite them to write their own card.
+* As the story being discussed changes, add notes to the card.
+
+Make it easy for the team to use cards any time, not just in planning meetings. Use a consistent layout:
+
+* Title
+* Story
+* Effort
+
+##### Story Templates
+
+"As a…user, I want…capability so that…benefit."
+
+This template helps the team remember to clarify who the user is and what the benefit of developing the story is.
+
+Develop personas for different user roles. Arrange for the team to go out and meet real users in the setting that the software will be used in.
+
+The purpose of a story template is to help the team learn to ask questions that improve their understanding. Always write the user story in language that can be understood by the whole team including the customer.
+
+After the stories have been implemented as working software, the team relies on the tests, not the cards, for details about the story.
+
+#### 6.4 Confirming the Details
+
+Agree on what behaviors to implement. Pin down the scope of each story as a set of tests that need to pass for the story to be considered "done." These story tests (acceptance criteria) help the team clarify what needs to be built and how much work needs to be done.
+
+Story tests start life as bullet points scribbled on the back of a story card. Advise the team this is enough detail until the point that the story is planned into their next iteration. Later, these notes are used during the iteration as the basis for writing runnable test scripts.
+
+Team draws out story tests by walking through real examples. Examples help the team check that they understand what the software has to do and what behavior will meet customer needs. Examples also lead the team to explore situations that might need error handling.
+
+Start by walking through a simple user interaction where a user achieves a goal. Now encourage the team to ask their customer questions like these:
+
+* What data does the user enter?
+* What does the user expect to see?
+* Are there business rules that we need to be aware of?
+
+Sketches of the user interface may help; rough pencil drawins are fine. It's the content and interaction that the team needs to understand, no the appearance.
+
+Now prompt the team to ask about what could go wrong. 
+
+User stories are a simple technique that a team can use for understanding their customer through talking about what users need. Show them how to use cards, and encourage them to get involved in conversations about user stories to offer their ideas and to draw out more details as story tests.
+
+#### 6.5 Hurdles
+
+The follow are some hurdles you may encounter.
+
+##### No User-Facing Functionality
+
+If you are working on a project to rework infrastructure or architecture, there is often no obvious user-facing functionality to describe.
+
+User stories can also be used to wrap a bunch of technical tasks into a more meaningful description.
+
+##### Requirements Must Be Documented
+
+Take photos of cards, sketches and boards.
+
+##### Team Can't Meet Up
+
+Use some basic software that allows you to write virtual sticky notes instead of index cards.
+
+#### 6.6 Checklist
+
+* Teach the team the "Card, Conversation, Confirmation" mantra to help them remember that a user story has three essential elements: a conversation, a card, and a confirmation. Encourage the team to refine each user story through conversation with the customer.
+* Show the team how to write story cards by doing it yourself and then stopping to make room for the team to write them instead.
+* Make sure cards or ntes are available in the team space and in meetings to discuss stories.
+* "As a…user I want…capability so that…benefit" can be a useful template for user stories. Watch this does not become a form-filling exercise; such templates should prompt the team to ask questions. Once they're asking the right questions, the team can drop the template.
+* Suport the customer in working out details of stories before planning sessions. It helps shape the user stories if you get a few team members involved; they can ask questions and suggest story tests.
