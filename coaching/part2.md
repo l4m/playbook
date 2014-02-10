@@ -327,3 +327,87 @@ When the team is focused on bugs or out or the office for a period create a prio
 * Help the team estimate consistently by creating a story card matrix that groups stories with the same estimate together.
 * Take care that the team works at a sustainable pace and doesn't make promises that their velocity shows they're unlikely to keep. Suggest the team check their capacity before making the final cut of what stories should be in the plan.
 * Before the meeting breaks up, make sure that someone takes the cards and puts them up on the team board. The team also needs to take note of what stories are planned along with the initial estimates so they have a baseline they can use when calculating their velocity.
+
+### 8 Keeping It Visible
+
+Help the team set up a team board that radiates their plans for all so see.
+
+#### 8.1 The Team Board
+
+Most teams divide their board into columns to indicate progress. The team puts the cards on the team board immediately after planning and moves the cards across the board until they reach the Done column.
+
+**Stories:** All the stories are placed here, in priority order from top to bottom.
+
+**Tasks:** Tasks are put here, in swim lanes next to the story to which they relate.
+
+**In progress:** When work on a task begins, it is moved into this column.
+
+**Awaiting QA:** When all the tasks are complete, the story card is placed into this column, and the completed tasks can be discarded. Seeing a card here prompts a customer or a tester to check the work and confirm it meets the story tests.
+
+If a problem needs fixing, move the story card back to the Stories column and create new task cards for the fix.
+
+**Done:** The goal is to get all stories that are done over here. This column should steadily fill up over the iteration.
+
+The team delivers value only when a whole story is complete. Encourage them to focus on getting a few stories all the way across the board at a time.
+
+Take care that the board is laid out so that it is clear and legible. Use consistent formatting.
+
+##### Who's Working on What?
+
+The beauty of a team board is that it enables the team to choose their own work. This encourages each team member to take responsibility for making the iteration a success rather than just focusing on "their" part.
+
+Make this visible by asking the team to tag the task they are working on with their name or picture.
+
+##### Choosing Materials
+
+The team board needs to be easy to use and interact with. Keep spare supplies by the board.
+
+**Involve the team in choosing materials.**
+
+##### Electronic Boards
+
+People like tangible thinkgs, and cards are easier to interact with in a group than electronic data. Without the physical constraints of a team board, electronic boards tend to get overcomplicated.
+
+#### 8.2 Big Visible Charts
+
+Increase the visibility of issues they want to track and then post it to the team board.
+
+**Retire chard when the problem has gone.**
+
+Note that as a coach, you need to take care introducing visible charts--get the permission from the team first.
+
+##### Burndown and Burnup Charts
+
+A burndown chart shows how much work is left to do in the iteration.
+
+A release burnup chart plots the number of complete story points across the iterations to the next release.
+
+#### 8.3 Maintaining the Team Board
+
+Stale data isn't useful. Take a few minutes after the daily standup to update the board. Take turns as tracker for the week. Clear the board at the end of every iteration.
+
+#### 8.4 Hurdles
+
+The following are some hurdles you may encounter.
+
+##### No Space for a Team Board
+
+Be creative.
+
+##### Team Doesn't Update Their Board
+
+Make sure board is referenced in daily standup and iteration demos so the team sees it as relevant.
+
+##### Concern That Cards Will Be Lost
+
+To avoid the mild inconvenience of losing a task, use the best materials you can to construct the board.
+
+#### 8.5 Checklist
+
+* Involve the team in designing and constructing a team board so they can make their iteration plan visible. This makes it easy for everyone to see what needs to be done and coordinate their work.
+* It's the team's board, so they can use it to post personal stuff and charts that help them focus on improving the way they work.
+* Find a board configuration that works for the team. Select materials that make it easy to read from a distance. If you use a color scheme, then provide a key to explain what the colors mean.
+* Encourage the team to tag the cards they're working on with names or avatars. This helps make it more visible when someone is blocked.
+* Don't bury information in electronic information fridges. However, if you have remote team members or the team is workin as part of a large program, the team will need to create an electronic summary of their iteration plan.
+* Use iteration burndown charts only as a crude measure of team confidence that they're on track. Encourage the team to update this themselves at the daily standup or by nominating a tracker. A release burnup chart will be a better indication of progress and helps the customer spot whether they need to descope or budget more iterations.
+* Clear the board at the end of the iteration. Review visible charts during the iteration, and retire them when the team no longer finds them useful.
