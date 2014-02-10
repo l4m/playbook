@@ -156,3 +156,38 @@ User stories underpin all the work an Agile team does--they're the basis of plan
 * Make sure cards or ntes are available in the team space and in meetings to discuss stories.
 * "As a…user I want…capability so that…benefit" can be a useful template for user stories. Watch this does not become a form-filling exercise; such templates should prompt the team to ask questions. Once they're asking the right questions, the team can drop the template.
 * Suport the customer in working out details of stories before planning sessions. It helps shape the user stories if you get a few team members involved; they can ask questions and suggest story tests.
+
+### 7 Planning Ahead
+
+Encourage the team to create plans of different granularities. They are likely to need both a rough plan that looks a few months into the future and a more detailed plan for their next iteration.
+
+**Prepare:** Work with the team--especially the customer--to get the user stories ready before the meeting. Slice the stories down as fine as you can without losing sight or the benefit.
+
+**Fry one at a time:** Have one conversation at a time. If the team is talking about how to develop a story and then gets sidetracked by how important that story is compared to another, they can go round in circles.
+
+**Keep stirring:** Keep the meeting flowing, and refocus conversations to prevent them from getting stuck.
+
+**Control the heat:** The team may be under pressure to commit to more work that can be finished in the iteration. Help them work through the design details so they can give realistic estimates that take their past delivery rate (velocity) into account.
+
+#### 7.1 Preparing for Planning
+
+#### 7.2 Understanding Priorities
+
+#### 7.3 Sizing the Work
+
+#### 7.4 Review and Commit
+
+#### 7.5 Keeping Track
+
+#### 7.6 Hurdles
+
+#### 7.7 Checklist
+
+* Create an agenda with the team for planning meetings, possibly breaking planning into more than one session. Show the team how to use the agenda in the meeting to refocus conversations when they drift.
+* Remind the team to work with the customer before planning meetings to prepare the user stories.
+* Make sure everyone has an opportunity during planning meetings to ask questions about the user stories.
+* Encourage design discussions before estimating the work. These often flow better if the customer steps out of the meeting.
+* Suggest the team do a task breakdown for any large stories. Tasks can be posted up on the team board along with the stories during the iteration to help the team coordinate their work. However, recommend to the team that it's more important to track completed stories than tasks.
+* Help the team estimate consistently by creating a story card matrix that groups stories with the same estimate together.
+* Take care that the team works at a sustainable pace and doesn't make promises that their velocity shows they're unlikely to keep. Suggest the team check their capacity before making the final cut of what stories should be in the plan.
+* Before the meeting breaks up, make sure that someone takes the cards and puts them up on the team board. The team also needs to take note of what stories are planned along with the initial estimates so they have a baseline they can use when calculating their velocity.
