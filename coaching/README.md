@@ -213,3 +213,34 @@ Help the team set up a team board that radiates their plans for all so see.
 * Don't bury information in electronic information fridges. However, if you have remote team members or the team is workin as part of a large program, the team will need to create an electronic summary of their iteration plan.
 * Use iteration burndown charts only as a crude measure of team confidence that they're on track. Encourage the team to update this themselves at the daily standup or by nominating a tracker. A release burnup chart will be a better indication of progress and helps the customer spot whether they need to descope or budget more iterations.
 * Clear the board at the end of the iteration. Review visible charts during the iteration, and retire them when the team no longer finds them useful.
+
+## [Part III Caring About Quality](part3.md)
+
+## 9 Getting to "Done"
+
+Ever watched little kids playing soccer?
+
+Agile teams need to learn how to work together to meet their goals. Each person on the team plays a part in getting the work done. Help them get clear on exactly what being done means and how they can collaborate to make it happen.
+
+#### 9.1 Who Does the Testing?
+
+#### 9.2 Defining What "Done" Means
+
+#### 9.3 Planning in Testing
+
+#### 9.4 Managing Bugs
+
+#### 9.5 Getting Feedback Early
+
+#### 9.6 Recovering from Not Getting Done
+
+#### 9.7 Hurdles
+
+#### 9.8 Checklist
+
+* Define what "done" means with the team. Display this as a check list in the team workspace. Include testing done by customers, developers, and testers, but exclude testing done outside the team.
+* Make sure that testing is considered in iteration planning so testing tasks are understood by the whole team.
+* Encrouage developers to work closely with testers and their customers to get early feedback on stories. Ask the customer to reserve time every day to answer questions from the team.
+* Recommend that software is made available to customers during the iteration. Encourage the team to look for slices of user stories that can be delivered early rather than waiting until the iteration ends.
+* Use the team board to display bugs that need to be fixed before the end of the iteration. Instead of creating a hidden backlog in the bug tracker, ask testers to work with the customer to turn bugs that are deferred into new user stories that can be planned into future iterations.
+* If the team doesn't get all the stories done, talk about why this happened with the whole team in the demo or retrospective. Clear the board at the end of the iteration, and take any incomplete stories into iteration planning. Help the team gather velocity data so they don't overcommit in the next iteration.
