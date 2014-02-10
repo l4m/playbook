@@ -132,3 +132,27 @@ The daily standup reveals how well team members are working together. When it is
 * Ask the customer along to the daily standup to give her progress and updates.
 * Gather issues that come up on a whiteboard where everyone can see the. Prioritize it with the team, and follow up afterward.
 * Review the effectiveness of the daily standup in the retrospective, and experiment with the format.
+
+### 6 Understanding What to Build
+
+To deliver valuable software, understand both user and business benefits.
+
+User stories underpin all the work an Agile team does--they're the basis of plans, development, and testing. The whole point of user stories is to ask questions to better understand what users need and to find ways of breaking requirements down.
+
+#### 6.1 Life Cycle of a User Story
+
+#### 6.2 Encouraging Conversations
+
+#### 6.3 Working With Cards
+
+#### 6.4 Confirming the Details
+
+#### 6.5 Hurdles
+
+#### 6.6 Checklist
+
+* Teach the team the "Card, Conversation, Confirmation" mantra to help them remember that a user story has three essential elements: a conversation, a card, and a confirmation. Encourage the team to refine each user story through conversation with the customer.
+* Show the team how to write story cards by doing it yourself and then stopping to make room for the team to write them instead.
+* Make sure cards or ntes are available in the team space and in meetings to discuss stories.
+* "As a…user I want…capability so that…benefit" can be a useful template for user stories. Watch this does not become a form-filling exercise; such templates should prompt the team to ask questions. Once they're asking the right questions, the team can drop the template.
+* Suport the customer in working out details of stories before planning sessions. It helps shape the user stories if you get a few team members involved; they can ask questions and suggest story tests.
