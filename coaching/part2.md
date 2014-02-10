@@ -204,3 +204,126 @@ Use some basic software that allows you to write virtual sticky notes instead of
 * Make sure cards or ntes are available in the team space and in meetings to discuss stories.
 * "As a…user I want…capability so that…benefit" can be a useful template for user stories. Watch this does not become a form-filling exercise; such templates should prompt the team to ask questions. Once they're asking the right questions, the team can drop the template.
 * Suport the customer in working out details of stories before planning sessions. It helps shape the user stories if you get a few team members involved; they can ask questions and suggest story tests.
+
+### 7 Planning Ahead
+
+Encourage the team to create plans of different granularities. They are likely to need both a rough plan that looks a few months into the future and a more detailed plan for their next iteration.
+
+**Prepare:** Work with the team--especially the customer--to get the user stories ready before the meeting. Slice the stories down as fine as you can without losing sight or the benefit.
+
+**Fry one at a time:** Have one conversation at a time. If the team is talking about how to develop a story and then gets sidetracked by how important that story is compared to another, they can go round in circles.
+
+**Keep stirring:** Keep the meeting flowing, and refocus conversations to prevent them from getting stuck.
+
+**Control the heat:** The team may be under pressure to commit to more work that can be finished in the iteration. Help them work through the design details so they can give realistic estimates that take their past delivery rate (velocity) into account.
+
+#### 7.1 Preparing for Planning
+
+Encourage the team to work with the customer to get the user stories ready well before the planning day. This can be done by a couple of team members.
+
+**Understand priorities:** Start with a team conversation about the user stories the customer would like to get in the next iteration to release.
+
+**Size the work:** When the stories are understood, help the team work out what needs to be done to deliver the stories.
+
+**Agree on the plan:** Wrap the meeting up by getting agreement on what can realistically be delivered.
+
+* Create an agenda for planning meetings
+* Prepare
+* Refocus when conversation drifts
+
+#### 7.2 Understanding Priorities
+
+Recommend that the customer opens the meeting by 
+
+* Explaining goal for next iteration or release.
+* Presenting user stories supporting the goal.
+* Ranks stories by importance.
+
+Encourage the team to ask questions and look for opportunities to split stories down further. Prompt the team to review the tests for each story likely to be in the next iteration.
+
+#### 7.3 Sizing the Work
+
+* Visualize design options.
+* Dig into technical details.
+
+##### Decomposing into Tasks
+
+Small pieces of work that contribute to the delivery of a user story. Tasks make it easier for the team to share the work and coordinate their efforts so several people can work on the same story.
+
+Read the story to the team, and then ask what needs to happen.
+
+##### Estimating, Not Guessing
+
+Collaborate to estimate how long the stories will take to  complete without deciding who will do what. Do not pad estimates to allow for thing to go wrong. It is not possible to estimate interruptions.
+
+Take time to research what needs to be done rather than guessing.
+
+If a longer investigation is needed, suggest to the team that they plan a spike. A spike is a time boxed investigation with the goal of producing and estimate for a user story rather than producing code.
+
+##### Arriving at an Estimate
+
+* Discuss each story and agree on an estimate.
+* Mark the estimate on the story card.
+* Group cards with similar estimates into columns and order them from low to high.
+
+#### 7.4 Review and Commit
+
+The next part of planning is grouping the stories into an iteration schedule that the team can realistically deliver.
+
+##### Laying Out Iterations
+
+Lay out the story cards in the order that the development team plans to work on them. Put the highest-priority ones first unless there are risks, dependencies, or deadlines associated with particular cards. Allow customer to re-prioritize if necessary.
+
+##### Looking Further Ahead
+
+In an ideal world, the team would put a live release out to users at the end of every iteration. Use a roadmap based on story themes for anything more than 3 months out. Use a kanban queue for supporting live applications.
+
+#### 7.5 Keeping Track
+
+Someone needs to take responsibility for putting the stories and tasks up on the team board. Rotate this role within the team.
+
+Putting tasks into a tracking tool can lead to micromanagement. Stakeholders are interested in whole user stories being finished rather than tasks because tasks aren't deliverables.
+
+Keep a version of release plans in software because it needs to be shared more widely with stakeholders. Take a snapshot of planned stories and estimates to determine accuracy. Compare total story points planned with completed stories.
+
+#### 7.6 Hurdles
+
+The following are some hurdles you may encounter.
+
+##### Customer Doesn't Know What They Want
+
+Make sure they have a rough cut of stories before the planning meeting.
+
+##### The Team Is Asked to Overcommit
+
+If you see that the team is about to commit to far more than their velocity shows they're likely to achieve, warn them that there's a high risk that all the stories may not be delivered.
+
+##### Plan Changes During the Iteration
+
+Expect the team to create some additional tasks for a story as their understanding of the problem grows, but watch out if the tasks change a lot--that is a sign that the team didn't come to grips with what needed to be done in planning.
+
+##### Meeting Has a Lot of Conflict or Tension
+
+* Encourage team to explain their ideas and concerns to the customer.
+* Ultimately what stories end up in the plan as to be a joint decision.
+* Judge each solution on how simple it is to develop.
+
+##### Team Velocity Drops
+
+* Continue tracking velocity once it settles down to a reliable figure.
+* Help the team notice any slowdowns and try to work out the root cause.
+
+##### Planning Doesn't Make Sense
+
+When the team is focused on bugs or out or the office for a period create a prioritized queue.
+
+#### 7.7 Checklist
+
+* Create an agenda with the team for planning meetings, possibly breaking planning into more than one session. Show the team how to use the agenda in the meeting to refocus conversations when they drift.
+* Remind the team to work with the customer before planning meetings to prepare the user stories.
+* Make sure everyone has an opportunity during planning meetings to ask questions about the user stories.
+* Encourage design discussions before estimating the work. These often flow better if the customer steps out of the meeting.
+* Suggest the team do a task breakdown for any large stories. Tasks can be posted up on the team board along with the stories during the iteration to help the team coordinate their work. However, recommend to the team that it's more important to track completed stories than tasks.
+* Help the team estimate consistently by creating a story card matrix that groups stories with the same estimate together.
+* Take care that the team works at a sustainable pace and doesn't make promises that their velocity shows they're unlikely to keep. Suggest the team check their capacity before making the final cut of what stories should be in the plan.
+* Before the meeting breaks up, make sure that someone takes the cards and puts them up on the team board. The team also needs to take note of what stories are planned along with the initial estimates so they have a baseline they can use when calculating their velocity.
