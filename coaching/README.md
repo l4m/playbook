@@ -191,3 +191,25 @@ Encourage the team to create plans of different granularities. They are likely t
 * Help the team estimate consistently by creating a story card matrix that groups stories with the same estimate together.
 * Take care that the team works at a sustainable pace and doesn't make promises that their velocity shows they're unlikely to keep. Suggest the team check their capacity before making the final cut of what stories should be in the plan.
 * Before the meeting breaks up, make sure that someone takes the cards and puts them up on the team board. The team also needs to take note of what stories are planned along with the initial estimates so they have a baseline they can use when calculating their velocity.
+
+### 8 Keeping It Visible
+
+Help the team set up a team board that radiates their plans for all so see.
+
+#### 8.1 The Team Board
+
+#### 8.2 Big Visible Charts
+
+#### 8.3 Maintaining the Team Board
+
+#### 8.4 Hurdles
+
+#### 8.5 Checklist
+
+* Involve the team in designing and constructing a team board so they can make their iteration plan visible. This makes it easy for everyone to see what needs to be done and coordinate their work.
+* It's the team's board, so they can use it to post personal stuff and charts that help them focus on improving the way they work.
+* Find a board configuration that works for the team. Select materials that make it easy to read from a distance. If you use a color scheme, then provide a key to explain what the colors mean.
+* Encourage the team to tag the cards they're working on with names or avatars. This helps make it more visible when someone is blocked.
+* Don't bury information in electronic information fridges. However, if you have remote team members or the team is workin as part of a large program, the team will need to create an electronic summary of their iteration plan.
+* Use iteration burndown charts only as a crude measure of team confidence that they're on track. Encourage the team to update this themselves at the daily standup or by nominating a tracker. A release burnup chart will be a better indication of progress and helps the customer spot whether they need to descope or budget more iterations.
+* Clear the board at the end of the iteration. Review visible charts during the iteration, and retire them when the team no longer finds them useful.
