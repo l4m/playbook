@@ -289,3 +289,28 @@ If the team doesn't take time to keep their code clean, it becomes messy and fra
 * Help the team formulate a plan to renovate any areas of the code where design has decayed. Fixing broken windows helps the team keep the standard of design up.
 * Use pair programming to get two heads on difficult problems and spread knowledge within the team. Set the team workspace up so that pair programming is comfortable, for example, two monitors displaying the same desktop.
 * Introduce ping-pong programming to encourage pairs to swap between the roles of driver and navigator. Watch that pairs take enough breaks and swap partners rather than forming pair cliques.
+
+## [IV Listening to Feedback](part4.md)
+
+### 12 Demonstrating Results
+
+Having a demo motivates them to get everything done in time. The iteration demo builds trust and accountability between the team and the business.
+
+#### 12.1 Preparing for the Demo
+
+#### 12.1 Everyone Plays a Part
+
+#### 12.3 Releasing the Software
+
+#### 12.4 Hurdles
+
+#### 12.5 Checklist
+
+* Work with the team in planning to ensure user stories can be demonstrated.
+* Make sure the whole team, including the customer, attends the demo. Encourage the customer to invite stakeholders from the wider organization along to the demo. Brief any stakeholders who are new to Agile that what they'll be seeing isn't the final product.
+* Remind the team on the last day of the iteration to review what is and is not ready for the demo. Suggest that the team put up a visible timetable that covers what the team needs to do to prepare for the demo. The team decides who will demonstrate each story--often this is agreed at the daily standup.
+* Help the team avoid having technical glitches spoil the demo. Recommend the team sets up the room in advance and checks network connections. The team can even hold a rehearsal to make the demo really slick.
+* Take notes on stakeholder reactions and feedback during the meeting. Review these feedback points with everyone before the meeting ends. Make sure the team captures this feedback as new user stories and takes them along to their next iteration planning session.
+* As well as demonstrating working software in the iteration demo, the team agrees with the customer which stories meet their definition of "done" to calculate their final velocity.
+* Encourage the team to automate both deployment and testing the deployment so releasing software can be done swiftly without errors.
+* Celebrate the team's success after the demo. If things didn't go so well in the demo, discuss this in the retrospective, and work out actions with the team to avoid this the next time around.
