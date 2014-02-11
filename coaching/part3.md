@@ -173,3 +173,118 @@ This causes a problem because each integration may be quite time consuming, ofte
 * Continuous Integration is an attitude, not a set of tools. Suggest that the team start with a synchronous CI process before relying on a build server.
 * If the team uses a CI server, make it easy for the team to take responsibility for fixing broken tests. Work on making build status visible to the whole team rather than buried in email.
 * Watch out for slow-running tests. Encourage the team to factor time into their plans for improving their build scripts and infrastructure. Test coverage can help the team get a better understanding of how well they're doing.
+
+### 11 Clean Code
+
+If the team doesn't take time to keep their code clean, it becomes messy and fragile. As their coach, you're there to support them in learning how to keep code clean, tested, and integrated all the time.
+
+#### 11.1 Incremental Design
+
+Taking small steps to improve the design of the software in small steps as you go. Developers should think about the design of the software as they write tests, as they implement code to pass those tests, and before the check in their code.
+
+##### Breaking Out of Analysis Paralysis
+
+Further discussion is unlikely to reveal the correct answer, whereas they can prove their ideas by implementing them.
+
+Encourage the team to design for now and to keep their design as simple as they can for current needs. Each time the design is reworked, it is refined and becomes more malleable.
+
+##### Agreeing On a Way Forward
+
+* Run a team workshop to evaluate the pros and cons of different design options.
+* Make sure each alternative gets equal airtime and consideration.
+* Pick one design for the iteration and review in the retrospective.
+
+##### Making Time for Design
+
+Without attention to design, the code becomes hard to understand and difficult to change.
+
+Remind the team when they're planning to allow time in their estimates for design discussions and refactoring. Where some stories require further design discussion, add a card on the team board as a reminder to have this conversation.
+
+Help them keep clean code in mind by working with them to incorporate a design review into their definition of "done."
+
+Make design changes in small steps rather than changing too many things at once.
+
+##### Refactoring
+
+Refactoring is the activity of improving the software design without changing its behavior.
+
+Refactoring the code makes it easier to maintain in two ways:
+
+* **Improving readability** by restructuring and renaming code
+* **Reducing redundant code** by consolidating and deleting unused code
+
+##### Readable Code
+
+The team needs to write code that is easy to understand by anyone else on the team and is also self-explanatory to those maintaining the code in years to come.
+
+Practicing collective code ownership helps with this by exposing every team member to code they didn't write.
+
+##### Refactoring Tools
+
+Tools can also help the team stick with incremental design by making design improvement easier to do. Simply having refactoring tools installed is not enough; developers also need to know how and when to use them.
+
+#### 11.2 Collective Code Ownership
+
+Any team member can edit any piece of code. Without some degree of collaboration, developers can be working at cross-purposes without realizing it.
+
+##### Coding Style
+
+Collective code ownership is easier when the team follows a consistent approach to design and coding style. Bring the whole team together to work out what coding style they want to adopt. Once the team has a consistent style, their code is more readable, and less time is wasted on reformatting code to personal taste.
+
+##### Working with Specialists
+
+Developers should not favor bits of the codebase they consider their own. This creates bottlenecks.
+
+##### Fixing Broken Windows
+
+Small signs of not caring about the code can lead to bigger transgressions.  Help them form a plan of action to renovate the code. 
+
+#### 11.3 Pair Programming
+
+Pair programming is two people working together--at the same computer, solving the same problem. Each person plays and active role in creating the software; the person actively typing is known as the driver, and her partner is the navigator who looks ahead to consider next steps and potential pitfalls. Pairs swap fluidly between these roles.
+
+Benefits pair programming generates over time:
+
+* Code is higher quality, because it is constantly being reviewed.
+* Good practice is shared more widely amongst the team.
+* Developers are interrupted less, because people tend not to interrupt people working together.
+* More than one developer knows each part of the code.
+* A uniform coding style is implemented, which makes it easy for everyone to work together.
+* Team bonding improves, because the team learns from each other and enjoys working together.
+
+Explain what you are doing and why. Don't become a backseat driver. Stay open to suggestions. Effective pairing is a dynamic dance, with the keyboard frequently and spontaneously shifting between to two.
+
+Take a break every hour or so and swap between pairs.
+
+#### 11.4 Hurdles
+
+The following are some hurdles you may encounter.
+
+##### A Developer Doesn't Like Pair Programming
+
+Explain how pair programming interaction should work, and encourage then to try **pin-pong programming**.
+
+* The first developer writes a failing test and then passes the keyboard to his pair.
+* The second developer writes just enough code to make the test pass.
+* They then work together to refactor the code that has just been written.
+* Then the cycle can start again with the second person writing a new failing test and handing they keyboard back to the first person.
+
+Discuss with the team how much pair programming they feel is necessary.
+
+##### A Developer Doesn't Follow Team Coding Practices
+
+It is important as a coach to care when a team member doesn't follow team agreements. Talk with the developer to understand why.
+
+##### Gaps in Programming Languages Create a Barrier to Pair Programming
+
+Pair programming is not suitable for training. It makes sense only between the developers who are familiar with that language.
+
+#### 11.5 Checklist
+
+* Help the team strike a balance between spending time on software design vs. time implementing code. The team needs to focus on designing for the user stories they know about rather than second guessing the customer.
+* Remind the team during the planning process to allow time for incremental design. Get into the habit of using a whiteboard in the team workspace for design discussions.
+* Encourage the team to improve software design gradually by refactoring before every check-in rather than building up technical debt. Refactoring tools lower the barrier to making design improvements. Make sure the team knows how to use them.
+* Bring the whole team together to agree on a common coding style. If the team doesn't adopt pair programming, recommend they incorporate peer code reviews into their definition of "done."
+* Help the team formulate a plan to renovate any areas of the code where design has decayed. Fixing broken windows helps the team keep the standard of design up.
+* Use pair programming to get two heads on difficult problems and spread knowledge within the team. Set the team workspace up so that pair programming is comfortable, for example, two monitors displaying the same desktop.
+* Introduce ping-pong programming to encourage pairs to swap between the roles of driver and navigator. Watch that pairs take enough breaks and swap partners rather than forming pair cliques.
