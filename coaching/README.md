@@ -267,3 +267,25 @@ Developers can be confident they're building on a solid foundation, and testers 
 * Continuous Integration is an attitude, not a set of tools. Suggest that the team start with a synchronous CI process before relying on a build server.
 * If the team uses a CI server, make it easy for the team to take responsibility for fixing broken tests. Work on making build status visible to the whole team rather than buried in email.
 * Watch out for slow-running tests. Encourage the team to factor time into their plans for improving their build scripts and infrastructure. Test coverage can help the team get a better understanding of how well they're doing.
+
+### 11 Clean Code
+
+If the team doesn't take time to keep their code clean, it becomes messy and fragile. As their coach, you're there to support them in learning how to keep code clean, tested, and integrated all the time.
+
+#### 11.1 Incremental Design
+
+#### 11.2 Collective Code Ownership
+
+#### 11.3 Pair Programming
+
+#### 11.4 Hurdles
+
+#### 11.5 Checklist
+
+* Help the team strike a balance between spending time on software design vs. time implementing code. The team needs to focus on designing for the user stories they know about rather than second guessing the customer.
+* Remind the team during the planning process to allow time for incremental design. Get into the habit of using a whiteboard in the team workspace for design discussions.
+* Encourage the team to improve software design gradually by refactoring before every check-in rather than building up technical debt. Refactoring tools lower the barrier to making design improvements. Make sure the team knows how to use them.
+* Bring the whole team together to agree on a common coding style. If the team doesn't adopt pair programming, recommend they incorporate peer code reviews into their definition of "done."
+* Help the team formulate a plan to renovate any areas of the code where design has decayed. Fixing broken windows helps the team keep the standard of design up.
+* Use pair programming to get two heads on difficult problems and spread knowledge within the team. Set the team workspace up so that pair programming is comfortable, for example, two monitors displaying the same desktop.
+* Introduce ping-pong programming to encourage pairs to swap between the roles of driver and navigator. Watch that pairs take enough breaks and swap partners rather than forming pair cliques.
