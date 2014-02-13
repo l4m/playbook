@@ -314,3 +314,26 @@ Having a demo motivates them to get everything done in time. The iteration demo 
 * As well as demonstrating working software in the iteration demo, the team agrees with the customer which stories meet their definition of "done" to calculate their final velocity.
 * Encourage the team to automate both deployment and testing the deployment so releasing software can be done swiftly without errors.
 * Celebrate the team's success after the demo. If things didn't go so well in the demo, discuss this in the retrospective, and work out actions with the team to avoid this the next time around.
+
+### 13 Driving Change with Retrospectives
+
+> Without retrospectives you will find that the team keeps making the same mistakes over and over again.
+
+The retrospective provides a way for you to engage the team members in improving their process in direct response to problems that they face.
+
+#### 13.1 Facilitating a Retrospective
+
+#### 13.2 Designing a Retrospective
+
+#### 13.3 Broader Retrospectives
+
+#### 13.4 Hurdles
+
+#### 13.5 Checklist
+
+* Start the retrospective by looking back to understand what happened and why. Allow enough time for the team to tell the full story.
+* Spend the second half of the retrospective looking forward and deciding on a plan of action.
+* Watch out for retrospective "smells" that are stopping your teams retrospectives from being effective. If the retrospectives aren't driving process improvement, think about how you could run them better.
+* Find out what problems the team wants to fix most. Use dot voting to focus on what the team has energy to work on.
+* Don't commit to more actions that can be completed before the next retrospective. Even two or three actions completed every iteration can have significant impact over several months.
+* If the actions from last retrospective weren't done, find out why before adding any more.
