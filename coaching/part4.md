@@ -131,7 +131,7 @@ Creating a timeline helps piece together a complete picture of events. You may w
 
 **Color timeline** Use a scheme of different-colored sticky notes on the timeline to indicate feelings. Use green notes for events that were enjoyable, pink for stressful, and yellow for neutral. Post a key next to the timeline so it's clear what the colors mean. Don't forget to check whether everyone in the group can distinguish between to colors you're using before trying this.
 
-**Emotions seismograph** Invite the team to draw lines reflecting their mood over the iteration. This allows you to see how everyone was feeling at a certain time. And you can spot patterns when the whole team felt eneergized--or despondent.
+**Emotions seismograph** Invite the team to draw lines reflecting their mood over the iteration. This allows you to see how everyone was feeling at a certain time. And you can spot patterns when the whole team felt energized--or despondent.
 
 **Art gallery** Ask the team to draw a picture of what they project felt like to them, and post these pictures on the wall in the meeting. Then give each person an opportunity to explain their drawing.
 
@@ -145,7 +145,7 @@ Here are some "smells" that indicate the retrospective isn't working:
 
 **Change the world** The team commits to an ambitious list of actions without considering whether it has time to get them done in the next iteration. This leads to disappointment because the actions don't get done and the team adds more actions to this list every retrospective.
 
-**Wishful thinking** Actions discussed are rather vague with no owners, such as "Improve communication" or "Do more refactoring." These are not actions; they are problems to work on. Without more discussion, the team doesn't really know what to do to implement these pseudoactions.
+**Wishful thinking** Actions discussed are rather vague with no owners, such as "Improve communication" or "Do more refactoring." These are not actions; they are problems to work on. Without more discussion, the team doesn't really know what to do to implement these pseudo-actions.
 
 **No time to improve** The team takes five to ten minutes after their iteration demo to have a quick chat about how things have been going and calls that a retrospective. If individuals do have ideas for improvement, then they face a struggle to implement them without a forum to get support from the team.
 
@@ -212,7 +212,7 @@ Basic Ground Rules
 * Phones silent
 * Take turns to speak
 
-Prime directive is a special groundrule that underpins all retrospectives.
+Prime directive is a special ground rule that underpins all retrospectives.
 
 > Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.
 
@@ -232,9 +232,9 @@ Post the prime directive on the wall and explain it to the team. If the conversa
 
 Issues outside the team need to run a retrospective with a broader focus to look at the bigger picture. Look back over several iterations with a larger group. A good time to hold these retrospectives is after a major software release, so they're often called release retrospectives.
 
-For a retrospective that looks back over many months, some prework is needed--you need to do some digging so you can provide the team with reminders of what happened. Bring what stories were worked on, and print key project artifacts such as burn charts or wiki pages.
+For a retrospective that looks back over many months, some pre-work is needed--you need to do some digging so you can provide the team with reminders of what happened. Bring what stories were worked on, and print key project artifacts such as burn charts or wiki pages.
 
-##### Retrospective Prework
+##### Retrospective Pre-work
 
 Here's an example of a survey we have sent out to participants before the retrospective to collect the issues they want to discuss:
 
@@ -277,3 +277,99 @@ Be careful not to take sides or play favorites and keep you own impressions abou
 * Find out what problems the team wants to fix most. Use dot voting to focus on what the team has energy to work on.
 * Don't commit to more actions that can be completed before the next retrospective. Even two or three actions completed every iteration can have significant impact over several months.
 * If the actions from last retrospective weren't done, find out why before adding any more.
+
+### 14 Growing You
+
+It's vital to invest in yourself and in your own learning so you can grow as a person and keep your ideas fresh. You also need to take care of yourself in order to cope with the day-to-day demands of being an Agile coach. Take the time to reflect on your own performance and experiences and learn from them rather than repeating the same mistakes.
+
+#### 14.1 Ways to Grow What You Know
+
+* Commit to read one technical book per month.
+* Start your own blog.
+* Contribute to an open source project.
+* Post once a day to a community mailing list.
+* Listen to a podcast on your way to work.
+* Spare one evening a month to attend an interest group.
+
+The greater the variety of material you expose yourself to, the more you will learn.
+
+##### Share What You Learned
+
+Preparing your talk reinforces your learning. Delivering the talk gives you confidence that you really have learned it.
+
+##### Get Some Training
+
+Training courses provide a chance to role play and try new skills in a safe environment.
+
+#### 14.2 Making a Plan
+
+Set some personal goals and objectives to take you along on the development path you choose. Consider how much time and money you are prepared to spend implementing the plan.
+
+You plan needs to be achievable. Demonstrating that you are prepared to invest some of your own time and money will show how serious you are, which can help convince your manager to back you with more funds.
+
+#### 14.3 Building Your Network
+
+Other people will have different ideas, experiences, and points of view that can challenge you thinking.
+
+##### Conferences
+
+Attending at least one a year is a great way to gain new ideas and insights.
+
+##### User Groups
+
+Meet people who will become friends or mentors and people who can help you regularly over a long time. Reading conversations helps you learn, and replying to questions posed makes you think through the problem more deeply.
+
+#### 14.4 Personal Reflections
+
+Reflect on experiences you have had, and think about how recent experiences are linked to earlier ones to see connections and learn from them. If you did something that worked, what was it you did? Why did it work? Would it work again? When your actions don't have the effect you intended, what went wrong? How might you approach a similar situation next time?
+
+##### Keep a Journal
+
+Consider writing a journal either daily or weekly. This is a very good way of reflecting on your performance and improving it.
+
+###### Success Journal
+
+Reflect on all the good things you've done, rather than constantly criticizing yourself.
+
+**Success breeds success, problems breed problems.**
+
+Find a balance between focusing on your strengths and looking at what else needs to improve.
+
+##### Get a Coach
+
+Talking to someone else often enables you to solve your own problems. They may see how your actions led you into a situation more easily than you can.
+
+##### Take a Break
+
+Take time in your day to reflect. Swimming, walking, running, yoga, or even a hot bath are all excellent ways to reflect and unwind.
+
+If you are stressed, everything seems bigger, worse, and more important than it really is. Try to get a sense of perspective.
+
+#### 14.5 Getting Comfortable
+
+To be an Agile coach, you need to develop a thick skin; you can't get upset when people don't follow your advice. Not everybody appreciates being challenged and stretched, and they may try to take it out on you.
+
+##### Be Kind
+
+Always assume everyone is doing their best and that they do everything for a reason.
+
+##### The Road Ahead
+
+Don't let your job grow stale.
+
+* Can you move to a new team, project, or department?
+* Can you coach more people than before?
+* Can you coach different job roles than you have been doing?
+* Can you mentor someone else?
+
+Keep an eye on the road ahead to ensure your career is running the way you want it to run. Make sure your work is always challenging, preferably just a little too hard for you so you stay engaged.
+
+#### 14.6 Checklist
+
+* Make time to learn. Create a plan of  what you want to learn this month and for you will do so.
+* Make time to reflect. The most powerful lessons don't come from books but from learning from our own mistakes--small or large.
+* Take time out to de-stress. Work can seem very important, and it is easy to let it swallow you up. Keep things in perspective by making time for yourself every day.
+* Meet other people who care about the same things as you. Local interest groups and conferences are great places to meet people who will help you keep your passion for Agile alive.
+* Be kind to yourself. Forgive your mistakes. Learn from them, make amends, and move on.
+* Be kind to others. Don't attribute bad intentions to people. Instead, find out why they are acting that way. Differences in opinion and style in a team are good.
+* Don't let your job grow stale. Keep pushing yourself at work; otherwise, it will no longer be fun.
