@@ -153,9 +153,9 @@ User stories underpin all the work an Agile team does--they're the basis of plan
 
 * Teach the team the "Card, Conversation, Confirmation" mantra to help them remember that a user story has three essential elements: a conversation, a card, and a confirmation. Encourage the team to refine each user story through conversation with the customer.
 * Show the team how to write story cards by doing it yourself and then stopping to make room for the team to write them instead.
-* Make sure cards or ntes are available in the team space and in meetings to discuss stories.
+* Make sure cards or notes are available in the team space and in meetings to discuss stories.
 * "As a…user I want…capability so that…benefit" can be a useful template for user stories. Watch this does not become a form-filling exercise; such templates should prompt the team to ask questions. Once they're asking the right questions, the team can drop the template.
-* Suport the customer in working out details of stories before planning sessions. It helps shape the user stories if you get a few team members involved; they can ask questions and suggest story tests.
+* Support the customer in working out details of stories before planning sessions. It helps shape the user stories if you get a few team members involved; they can ask questions and suggest story tests.
 
 ### 7 Planning Ahead
 
@@ -210,8 +210,8 @@ Help the team set up a team board that radiates their plans for all so see.
 * It's the team's board, so they can use it to post personal stuff and charts that help them focus on improving the way they work.
 * Find a board configuration that works for the team. Select materials that make it easy to read from a distance. If you use a color scheme, then provide a key to explain what the colors mean.
 * Encourage the team to tag the cards they're working on with names or avatars. This helps make it more visible when someone is blocked.
-* Don't bury information in electronic information fridges. However, if you have remote team members or the team is workin as part of a large program, the team will need to create an electronic summary of their iteration plan.
-* Use iteration burndown charts only as a crude measure of team confidence that they're on track. Encourage the team to update this themselves at the daily standup or by nominating a tracker. A release burnup chart will be a better indication of progress and helps the customer spot whether they need to descope or budget more iterations.
+* Don't bury information in electronic information fridges. However, if you have remote team members or the team is working as part of a large program, the team will need to create an electronic summary of their iteration plan.
+* Use iteration burn down charts only as a crude measure of team confidence that they're on track. Encourage the team to update this themselves at the daily standup or by nominating a tracker. A release burn up chart will be a better indication of progress and helps the customer spot whether they need to de-scope or budget more iterations.
 * Clear the board at the end of the iteration. Review visible charts during the iteration, and retire them when the team no longer finds them useful.
 
 ## [Part III Caring About Quality](part3.md)
@@ -240,7 +240,7 @@ Agile teams need to learn how to work together to meet their goals. Each person 
 
 * Define what "done" means with the team. Display this as a check list in the team workspace. Include testing done by customers, developers, and testers, but exclude testing done outside the team.
 * Make sure that testing is considered in iteration planning so testing tasks are understood by the whole team.
-* Encrouage developers to work closely with testers and their customers to get early feedback on stories. Ask the customer to reserve time every day to answer questions from the team.
+* Encourage developers to work closely with testers and their customers to get early feedback on stories. Ask the customer to reserve time every day to answer questions from the team.
 * Recommend that software is made available to customers during the iteration. Encourage the team to look for slices of user stories that can be delivered early rather than waiting until the iteration ends.
 * Use the team board to display bugs that need to be fixed before the end of the iteration. Instead of creating a hidden backlog in the bug tracker, ask testers to work with the customer to turn bugs that are deferred into new user stories that can be planned into future iterations.
 * If the team doesn't get all the stories done, talk about why this happened with the whole team in the demo or retrospective. Clear the board at the end of the iteration, and take any incomplete stories into iteration planning. Help the team gather velocity data so they don't overcommit in the next iteration.
@@ -337,3 +337,27 @@ The retrospective provides a way for you to engage the team members in improving
 * Find out what problems the team wants to fix most. Use dot voting to focus on what the team has energy to work on.
 * Don't commit to more actions that can be completed before the next retrospective. Even two or three actions completed every iteration can have significant impact over several months.
 * If the actions from last retrospective weren't done, find out why before adding any more.
+
+### 14 Growing You
+
+It's vital to invest in yourself and in your own learning so you can grow as a person and keep your ideas fresh. You also need to take care of yourself in order to cope with the day-to-day demands of being an Agile coach. Take the time to reflect on your own performance and experiences and learn from them rather than repeating the same mistakes.
+
+#### 14.1 Ways to Grow What You Know
+
+#### 14.2 Making a Plan
+
+#### 14.3 Building Your Network
+
+#### 14.4 Personal Reflections
+
+#### 14.5 Getting Comfortable
+
+#### 14.6 Checklist
+
+* Make time to learn. Create a plan of  what you want to learn this month and for you will do so.
+* Make time to reflect. The most powerful lessons don't come from books but from learning from our own mistakes--small or large.
+* Take time out to de-stress. Work can seem very important, and it is easy to let it swallow you up. Keep things in perspective by making time for yourself every day.
+* Meet other people who care about the same things as you. Local interest groups and conferences are great places to meet people who will help you keep your passion for Agile alive.
+* Be kind to yourself. Forgive your mistakes. Learn from them, make amends, and move on.
+* Be kind to others. Don't attribute bad intentions to people. Instead, find out why they are acting that way. Differences in opinion and style in a team are good.
+* Don't let your job grow stale. Keep pushing yourself at work; otherwise, it will no longer be fun.
