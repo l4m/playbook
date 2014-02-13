@@ -1,5 +1,7 @@
 # [Agile Coaching](http://www.amazon.com/gp/product/1934356433/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356433&linkCode=as2&tag=e2t-20)
 
+## [Guiding Principles](principles.md)
+
 ## [I Coaching Basics](part1.md)
 
 ### 1 Starting the Journey
