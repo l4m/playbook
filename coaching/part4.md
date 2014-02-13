@@ -228,7 +228,7 @@ By framing previous action and decisions as reasonable at the time (given the si
 
 Post the prime directive on the wall and explain it to the team. If the conversation starts getting too negative, then you can remind the team to think about the situational forces at work rather than blaming individuals.
 
-#### 13.2 Broader Retrospectives
+#### 13.3 Broader Retrospectives
 
 Issues outside the team need to run a retrospective with a broader focus to look at the bigger picture. Look back over several iterations with a larger group. A good time to hold these retrospectives is after a major software release, so they're often called release retrospectives.
 
