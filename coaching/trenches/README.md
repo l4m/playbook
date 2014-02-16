@@ -508,25 +508,226 @@ Better yet, don't even make the change proposal yourself. Instead, visualize the
 
 Once everyone agrees that the problem really is a problem and that it is worth solving, they you're halfway to the solution!
 
+## Part II -- A Closer Look at the Techniques
 
+### 17 Agile and Lean in a Nutshell
 
+Broadly speaking, Lean and Agile are two sets of highly compatible values and principles that outline how to succeed with product development. Scrum and XP and Kanban offer concrete techniques such as sprint planning meetings (Scrum), pair programming (XP), and limit work in progress (Kanban). These techniques can be seen as process tools.
 
+#### 17.1 Agile in a Nutshell
 
+##### Manifesto
 
+* Individuals and interactions over processes and tools
+* Working software over comprehensive documentation
+* Customer collaboration over contract negotiation
+* Responding to change over following a plan
 
+##### Values
 
+* Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+* Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
+* Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+* Business people and developers must work together daily throughout the project.
+* Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+* The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+* Working software is the primary measure of progress.
+* Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+* Continuous attention to technical excellence and good design enhances agility.
+* Simplicity--the art of maximizing the amount of work not done--is essential.
+* The best architectures, requirements, and designs emerge from self-organizing teams.
+* At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
+Any method or approach that follows these values and principles can be considered Agile. Many of the original manifesto authors hope that the term Agile will eventually fall out of use, signifying that the Agile values and principles have become simply "the way we do software."
 
+#### 17.2 Lean in a Nutshell
 
+Lean arose from manufacturing and the Toyota Production System (TPS).
 
+##### Optimize the Whole
 
+Optimizing a part of a system will always, over time, sub optimize the overall system.
 
+* Focus on the entire value stream: From concept to cash. From customer request to deployed software.
+* Deliver a complete product: Customers don't want software; they want their problems solved. Complete solutions are built by complete teams.
+* Think long term: Beware of governance and incentive systems that drive short-term thinking and optimize local performance.
 
+##### Eliminate Waste
 
+Waste is anything that does not add customer value. The three biggest wastes in software development are the following:
 
+* Building the wrong thing: "There is nothing so useless as doing efficiently that which should not be done at all."
+* Failure to learn: Many of our policies--for example, governance by variance from plan, frequent handovers, and separating decision making from work--interfere with the learning that is the essence of development.
+* Thrashing: Practices that interfere with the smooth flow of value--task switching, long list or requests, big piles of partly done work--deliver half the value for twice the effort.
 
+##### Build Quality In
 
+If you routinely find defects in your verification process, your process is defective.
 
+* Final verification should not find defects: Every software development process ever invented had its primary purpose finding and fixing defects as early in the development process as possible.
+* Mistake-proof your process with test-first development: Tests--including unit tests, end-to-end tests, and integration tests--must be available to establish confidence in the correctness of the system at any time during development, at every level of the system.
+* Break dependencies: System architecture should support the addition of any feature at any time.
 
+##### Learn Constantly
 
+Planning is useful. Learning is essential.
 
+* Predictable performance is driven by feedback: A predictable organization does not guess about the future and call it a plan; it develops the capacity to rapidly respond to the future as it unfolds.
+* Maintain options: Think of code as an experiment--make it change tolerant.
+* Last responsible moment: Learn as much as possible before making irreversible decisions. Don't make decisions that will be expensive to change before their time--and don't make them after their time!
+
+##### Deliver Fast
+
+Start with a deep understanding of all stakeholders and what they will value. Create a steady, even flow of work, pulled from this deep understanding of value.
+
+* Rapid delivery, high quality, and low cost are fully compatible: Companies that compete on the basis of speed have a big cost advantage, deliver superior quality, and are more attuned to their customers' needs.
+* Queuing theory applies to development, not just servers: Focusing on use creates traffic jams that reduce use. Drive down cycle time with small batches and fewer things in process. Aggressively limit the size and lists and queues.
+* Managing workflow is a lot easier than managing schedules: The best way to establish reliable, predictable deliveries is to establish reliable, repeatable workflows with iterations or a Kanban system.
+
+##### Engage Everyone
+
+The time and energy or bright, creative people are the scarce resources in today's economy and the basis of competitive advantage.
+
+People who are paid fairly and adequately are motivated by autonomy, mastery, and purpose.
+
+* Autonomy: The most effective work groups are semi-autonomous teams with an internal leader who has end-to-end responsibility for complete, meaningful tasks.
+* Mastery: Respect for people means providing the challenge, feedback, and environment that enables everyone to become excellent.
+* Purpose: Tie work to value. Only by believing in the purpose of their work will people become engaged in achieving that purpose.
+
+##### Keep Getting Better
+
+Results are not the point--the point is to develop the people and the systems capable of delivering results.
+
+* Failure is a learning opportunity: The most reliable performance comes when even small failures are deeply investigated and corrected--when noise is tolerated.
+* Standards exist to be challenged and improved: Embody the current, best-known practice into standards that everyone follows, while encouraging everyone to challenge and change the standards.
+* Use the scientific method: Teach teams to establish hypotheses, conduct many rapid experiments, create concise documentation, and implement the best alternative.
+
+#### 17.3 Scrum in a Nutshell
+
+Scrum is rooted in empirical process control and complex adaptive systems theory.
+
+The core concepts of Scrum are as follows:
+
+##### Ordered Product Backlog
+
+The product owner defines a product vision and orders the backlog by business value and other factors such as risk and dependencies.
+
+##### Cross-functional Teams
+
+Each team has a product owner, who provides the vision and overall business priorities, and a Scrum master, who focuses on improving the team and removing impediments.
+
+##### Sprints
+
+Each iteration ends with a demonstration of a tested, potentially shippable release.
+
+##### Continuously Adjusted Release Plan
+
+The product owner optimizes the release play and updates priorities in collaboration with the customer, based on insights gained by inspecting the release after each iteration.
+
+##### Continuously Adjusted Process
+
+The team optimizes the development process by having a retrospective after each iteration.
+
+So, with Scrum:
+
+…we have a small team spending a short time building a small thing.
+
+#### 17.4 XP in a Nutshell
+
+Extreme Programming (XP) is based on the values of simplicity, communication, feedback, courage, and respect.
+
+* Continuous integration
+* Pair programming
+* Test-driven development
+* Collective code ownership
+* Incremental design improvement
+
+#### 17.5 Kanban in a Nutshell
+
+Kanban is a Lean approach to Agile software development. Kanban is a Japanese word that means "visual card."
+
+* Visualize the workflow
+	* Split the work into pieces, write each item on a card, and put the card on the wall.
+	* Use named columns to illustrate where each item is in the workflow.
+* Limit work in progress (WIP): Assign explicit limits to how many items may be in progress at each workflow state.
+* Measure and manage cycle time: Average the time to complete one item. Optimize the process to make the cycle time as small and predictable as possible.
+
+This is basically a direct implementation of a Lean pull-scheduling system.
+
+### 18 Reducing the Test Automation Backlog
+
+Without test automation, making changes in the system is very hard, because things break without anybody noticing. This makes the team terribly afraid to change code and therefore reluctant to improve the design of the code, which lead to a downward spiral of worse and worse code as the system grows.
+
+#### 18.1 What to Do About It
+
+Let the team improve test coverage a little bit each iteration.
+
+1. List your test cases.
+2. Classify each test by risk, how expensive it is to do manually, and how expensive it is to automate.
+3. Sort the list in priority order.
+4. Automate a few tests each iteration, starting from the highest priority.
+
+### 19 Sizing the Backlog with Planning Poker
+
+Planning Poker is a simple but powerful tool that makes team estimating faster, more accurate, and more fun.
+
+#### 19.1 Estimating Without Planning Poker
+
+Teams are heavily influenced by who speaks first.
+
+#### 19.2 Estimating With Planning Poker
+
+* Everyone presents a card face down with their estimate.
+* Cards are turned over simultaneously.
+* Discuss estimates that are wildly divergent.
+* Convergence
+
+### 20 Cause-Effect Diagrams
+
+Cause-effect diagrams are a simple and pragmatic way of doing root-cause analysis.
+
+#### 20.1 Solve Problems, Not Symptoms
+
+The key to effective problem solving is first to make sure you understand the problem you are trying to solve--why it needs to be solved, how you'll know when you've solved it, and what the root cause of it is.
+
+If you "solve" the symptom without digging deeper, it's highly likely that the problem will just reappear later in a different shape.
+
+Most problems in organizations are systemic. The "system" (your organization) has a glitch that needs to be fixed. Until you find the source of the glitch, most attempts to fix the problem will be futile or even counterproductive.
+
+#### 20.2 The Lean Problem-Solving Approach: A3 Thinking
+
+One of the core tenets of Lean thinking is Kaizen--continuous process improvement. Toyota attributes much of its success to its highly disciplined A3 thinking problem-solving approach.
+
+With the A3 approach, a significant amount of time is spent analyzing and visualizing the root cause of a problem before proposing solutions.
+
+#### 20.3 How to Use Cause-Effect Diagrams
+
+Here's the basic process:
+
+1. Select the problem and write it down.
+2. Trace "upward" to figure out the business consequences, the "visible damage" that your problem is causing.
+3. Trace "downward" to find the root cause.
+4. Identify and highlight vicious cycles.
+5. Iterate these steps a few times to refine and clarify your diagram.
+6. Decide which root cause to address and how.
+
+A countermeasure is an experiment, not a solution.
+
+#### 20.9 Pitfalls
+
+* Too Many Boxes and Arrows: Simplify.
+* Oversimplification: This is intentional.
+* Getting Personal: Avoid the "blame game." Assume all problems are systemic.
+
+#### 20.10 Why Use Cause-Effect Diagrams?
+
+* Create a common understanding
+* Identify how problems affect the business
+* Find root causes
+* Eliminate vicious cycles
+
+Cause-effect diagrams are useful, but they key point is really the problem solving approach itself: the questions asked and the resulting conversations and insights.
+
+### 21 Final Words
+
+Knowledge doesn't stick unless you practice. So, think about what you learned from this book and how this knowledge might come to use in your context. Then go experiment!
