@@ -40,6 +40,11 @@ Even most individuals have multiple personas.
 * Golf Club
 * Rock Show
 
+Break the market down into smaller segments.
+In our user research we start uncovering who our potential customers are.
+We need to narrow down these characteristics and get as specific about them as possible.
+We are looking for early adopters not mainstream customers.
+
 ### Fishing
 #### Unfair Competitive Advantage
 
