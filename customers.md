@@ -177,11 +177,18 @@ Then find the common attributes and make a composite.
 
 ### Iterate
 
+Like everything lean ux this is an iterative of cycle.
+We should be constantly incorporating feedback into improving everything we do.
 
 ### Different Strokes
 
 
 ### WWJD
+
+What would Johnny do?
+How would he react or feel about a potential addition or change to your product?
+This is the level of intimacy and empathy I want us having for our customers.
+If the customer does not care, it is essentially waste.
 
 Hang one above your desk.
 Make a life size card board cut out to have in the office.
